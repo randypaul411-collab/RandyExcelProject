@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Industry,Product,City_Province,Order_Date,Shipping_Date,Units_Sold,Price_per_Unit,Status
+ORD20251,Adidas,Sports,Banner Print,"Vancouver, British Columbia",02/10/2025,2025-10-06,185,$118.93,Delivered
+ORD20252,Nike,Retail,LED signage,"Montreal, Quebec",09/10/2025,2025-10-12,26,$397.39,Delivered
+ORD20253,Rogers,Retail,LED signage,"Edmonton, Alberta",29/05/2025,2025-06-01,31,$478.28,Processing
+ORD20254,Cineplex,Construction,,"Edmonton, Alberta",26/11/2025,2025-11-29,3,439.26,Shipped
+ORD20255,Lululemon,Sports,Fabric Display,"Toronto, Ontario",2025-07-05,2025-07-07,90,393.43,Processing
+ORD20256,Adidas,Sports,Banner Print,"Calgary, Alberta",2025-04-05,06-Apr-2025,87,250.54,Shipped
+ORD20257,Nike,Retail,Lightbox Frame,"Surrey, British Columbia",2025-05-20,24-May-2025,179,$490.1,Delivered
+ORD20258,Bell,Sports,Fabric Display,"Edmonton, Alberta",2025-09-09,12-Sep-2025,38,69.34,Delivered
+ORD20259,Cineplex,Sports,Banner Print,"Halifax, Nova Scotia",2025-04-30,01-May-2025,157,$145.75,Delivered
+ORD202510,FIFA,Sports,LED signage,"Halifax, Nova Scotia",2025-10-28,03-Nov-2025,108,$475.92,Delivered
+ORD202511,Rogers,Retail,LED signage,"Quebec City, Quebec",2025-04-24,28-Apr-2025,82,424.19,Processing
+ORD202512,Nike,Events,LED Signage,"Toronto, Ontario",2025-06-08,2025-06-09,104,$106.03,Shipped
+ORD202513,Adidas,Hospitality,Banner Print,"Brampton, Ontario",16/04/2025,2025-04-18,69,193.95,Delivered
+ORD202514,Lululemon,Retail,LED Signage,"Brampton, Ontario",07/09/2025,08-Sep-2025,124,338.67,Delivered
+ORD202515,Lululemon,Events,LED Signage,"Halifax, Nova Scotia",26/04/2025,28-Apr-2025,194,192.88,Delivered
+ORD202516,Lululemon,Events,Banner Print,"Toronto, Ontario",2025-04-22,25-Apr-2025,70,$230.59,Shipped
+ORD202517,Cineplex,Events,LED signage,"Halifax, Nova Scotia",2025-04-14,19-Apr-2025,44,145.76,Processing
+ORD202518,Lululemon,Sports,Lightbox Frame,"Brampton, Ontario",2025-05-07,08-May-2025,174,$437.07,Delivered
+ORD202519,Nike,Events,LED Signage,"Edmonton, Alberta",2025-05-06,12-May-2025,35,242.91,Shipped
+ORD202520,Lululemon,Sports,,"Calgary, Alberta",02/10/2025,2025-10-06,185,$316.83,Processing
+ORD202521,Walmart,Retail,Acrylic Panel,"Halifax, Nova Scotia",02/03/2025,07-Mar-2025,187,$176.26,Processing
+ORD202522,Lululemon,Hospitality,Lightbox Frame,"Vancouver, British Columbia",17/01/2025,23-Jan-2025,181,$154.39,Shipped
+ORD202523,Lululemon,Retail,Acrylic Panel,"Quebec City, Quebec",2025-12-31,2026-01-06,40,$363.73,Delivered
+ORD202524,Rogers,Sports,Lightbox Frame,"Montreal, Quebec",01/10/2025,07-Oct-2025,86,145.21,Shipped
+ORD202525,Nike,Construction,,"Brampton, Ontario",2025-04-26,02-May-2025,192,165.85,Processing
+ORD202526,FIFA,Events,Banner Print,"Halifax, Nova Scotia",2025-11-28,2025-11-29,44,255.4,Delivered
+ORD202527,Walmart,Hospitality,banner print," Winnipeg, Manitoba ",18/03/2025,24-Mar-2025,153,$76.78,Processing
+ORD202528,Nike,Events,Fabric Display,"Vancouver, British Columbia",18/04/2025,2025-04-24,169,$342.41,Shipped
+ORD202529,Nike,Construction,LED signage,"Montreal, Quebec",2025-07-01,2025-07-03,82,97.89,Shipped
+ORD202530,Adidas,Construction,Fabric Display,"Edmonton, Alberta",2025-11-23,28-Nov-2025,59,137.04,Delivered
+ORD202531,Adidas,Events,Banner Print,"Toronto, Ontario",04/08/2025,05-Aug-2025,162,221.25,Processing
+ORD202532,Bell,Sports,Banner Print,"Halifax, Nova Scotia",24/05/2025,27-May-2025,128,305.19,Shipped
+ORD202533,Nike,Events,Acrylic Panel,"Mississauga, Ontario",15/10/2025,2025-10-16,120,150.8,Delivered
+ORD202534,Walmart,Sports,banner print,"Edmonton, Alberta",24/04/2025,26-Apr-2025,57,499.33,Delivered
+ORD202535,Bell,Sports,LED signage,"Halifax, Nova Scotia",29/08/2025,01-Sep-2025,187,38.71,Delivered
+ORD202536,Walmart,Retail,Banner Print,"Calgary, Alberta",19/08/2025,2025-08-25,193,82.95,Shipped
+ORD202537,Walmart,Retail,Lightbox Frame," Winnipeg, Manitoba ",2025-03-17,20-Mar-2025,47,$469.26,Delivered
+ORD202538,Walmart,Retail,,"Toronto, Ontario",2025-08-06,11-Aug-2025,69,$486.8,Delivered
+ORD202539,FIFA,Hospitality,LED Signage,"Halifax, Nova Scotia",2025-04-27,29-Apr-2025,123,$128.14,Shipped
+ORD202540,Walmart,Retail,LED signage,"Montreal, Quebec",2025-10-18,2025-10-19,161,161.37,Processing
+ORD202541,Cineplex,Hospitality,LED Signage,"Mississauga, Ontario",2025-05-29,2025-06-04,153,$173.86,Delivered
+ORD202542,Bell,Construction,Lightbox Frame,"Toronto, Ontario",09/11/2025,11-Nov-2025,163,$421.56,Delivered
+ORD202543,FIFA,Events,Banner Print,"Edmonton, Alberta",2025-08-29,2025-09-02,131,350.08,Delivered
+ORD202544,Rogers,Retail,Banner Print,"Montreal, Quebec",25/04/2025,01-May-2025,51,$32.67,Delivered
+ORD202545,Rogers,Hospitality,Banner Print,"Calgary, Alberta",18/05/2025,2025-05-23,194,$196.71,Shipped
+ORD202546,Rogers,Sports,Fabric Display,"Toronto, Ontario",2025-06-06,10-Jun-2025,50,$243.19,Processing
+ORD202547,Bell,Retail,,"Calgary, Alberta",2025-05-18,2025-05-19,63,36.34,Shipped
+ORD202548,FIFA,Retail,Lightbox Frame,"Mississauga, Ontario",11/09/2025,2025-09-14,79,$456.71,Delivered
+ORD202549,Lululemon,Hospitality,Banner Print,"Quebec City, Quebec",18/08/2025,2025-08-23,170,$479.9,Delivered
+ORD202550,Rogers,Hospitality,Lightbox Frame,"Halifax, Nova Scotia",2025-03-18,2025-03-20,36,$27.44,Processing
+ORD202551,Adidas,Sports,Banner Print,"Halifax, Nova Scotia",04/05/2025,2025-05-09,182,$304.78,Shipped
+ORD202552,Bell,Construction,Acrylic Panel,"Surrey, British Columbia",08/07/2025,14-Jul-2025,159,$172.32,Shipped
+ORD202553,Cineplex,Hospitality,banner print,"Calgary, Alberta",2025-12-14,2025-12-20,179,472.19,Delivered
+ORD202554,Lululemon,Sports,Banner Print,"Toronto, Ontario",10/11/2025,15-Nov-2025,6,237.01,Delivered
+ORD202555,Adidas,Sports,,"Mississauga, Ontario",26/12/2025,2025-12-31,23,345.7,Processing
+ORD202556,Lululemon,Retail,LED Signage,"Toronto, Ontario",15/02/2025,2025-02-20,3,475.3,Delivered
+ORD202557,FIFA,Construction,LED signage,"Montreal, Quebec",2025-06-25,29-Jun-2025,134,498.1,Shipped
+ORD202558,Cineplex,Hospitality,,"Calgary, Alberta",2025-04-12,14-Apr-2025,161,18.0,Processing
+ORD202559,FIFA,Retail,Acrylic Panel,"Calgary, Alberta",2025-04-29,30-Apr-2025,74,$299.86,Delivered
+ORD202560,Rogers,Events,," Winnipeg, Manitoba ",2025-12-21,26-Dec-2025,140,$79.13,Delivered
+ORD202561,Bell,Events,LED signage,"Montreal, Quebec",25/12/2025,28-Dec-2025,199,98.84,Shipped
+ORD202562,Rogers,Hospitality,Acrylic Panel,"Toronto, Ontario",2025-02-14,19-Feb-2025,23,425.31,Shipped
+ORD202563,Rogers,Retail,Fabric Display,"Brampton, Ontario",2025-03-15,16-Mar-2025,31,187.62,Delivered
+ORD202564,Walmart,Construction,,"Quebec City, Quebec",2025-07-31,02-Aug-2025,51,$19.04,Processing
+ORD202565,Bell,Events,LED signage,"Vancouver, British Columbia",2025-03-07,2025-03-11,99,$21.47,Shipped
+ORD202566,Lululemon,Sports,Fabric Display,"Halifax, Nova Scotia",01/08/2025,06-Aug-2025,87,154.26,Shipped
+ORD202567,Walmart,Hospitality,Acrylic Panel," Winnipeg, Manitoba ",05/03/2025,2025-03-10,62,$367.87,Shipped
+ORD202568,Walmart,Construction,Lightbox Frame,"Halifax, Nova Scotia",2025-11-21,2025-11-24,120,359.99,Processing
+ORD202569,FIFA,Retail,LED signage,"Halifax, Nova Scotia",15/07/2025,18-Jul-2025,192,$408.82,Delivered
+ORD202570,Rogers,Hospitality,banner print,"Calgary, Alberta",2025-05-15,20-May-2025,113,$451.96,Shipped
+ORD202571,Nike,Retail,Acrylic Panel,"Edmonton, Alberta",29/01/2025,30-Jan-2025,90,$430.83,Delivered
+ORD202572,FIFA,Hospitality,Acrylic Panel,"Toronto, Ontario",29/06/2025,2025-07-04,35,429.29,Processing
+ORD202573,Walmart,Hospitality,Banner Print,"Halifax, Nova Scotia",2025-12-07,10-Dec-2025,57,$256.43,Shipped
+ORD202574,Cineplex,Hospitality,Banner Print,"Edmonton, Alberta",23/03/2025,26-Mar-2025,181,81.52,Shipped
+ORD202575,Bell,Events,Lightbox Frame,"Halifax, Nova Scotia",06/07/2025,2025-07-10,92,287.33,Delivered
+ORD202576,Nike,Retail,LED signage,"Surrey, British Columbia",04/09/2025,10-Sep-2025,140,237.97,Shipped
+ORD202577,FIFA,Retail,Banner Print,"Calgary, Alberta",05/01/2025,2025-01-11,66,$109.21,Shipped
+ORD202578,Bell,Events,Banner Print,"Toronto, Ontario",2025-08-05,2025-08-08,48,362.91,Shipped
+ORD202579,Bell,Sports,Fabric Display,"Halifax, Nova Scotia",2025-08-25,31-Aug-2025,117,$16.79,Processing
+ORD202580,FIFA,Sports,Lightbox Frame,"Surrey, British Columbia",2025-04-06,11-Apr-2025,164,451.65,Delivered
+ORD202581,Walmart,Retail,Acrylic Panel,"Montreal, Quebec",2025-11-01,05-Nov-2025,24,$149.04,Processing
+ORD202582,FIFA,Sports,LED signage,"Mississauga, Ontario",20/06/2025,2025-06-24,151,177.56,Processing
+ORD202583,Bell,Hospitality,Fabric Display,"Halifax, Nova Scotia",07/08/2025,2025-08-08,117,$220.86,Shipped
+ORD202584,Lululemon,Construction,Banner Print," Winnipeg, Manitoba ",22/10/2025,24-Oct-2025,168,172.0,Processing
+ORD202585,Nike,Events,LED signage,"Calgary, Alberta",12/09/2025,2025-09-15,36,$103.92,Shipped
+ORD202586,Cineplex,Events,LED Signage,"Brampton, Ontario",2025-10-07,2025-10-10,10,200.02,Delivered
+ORD202587,Walmart,Construction,Banner Print,"Halifax, Nova Scotia",19/05/2025,24-May-2025,158,$113.29,Delivered
+ORD202588,Lululemon,Retail,Fabric Display,"Quebec City, Quebec",06/03/2025,09-Mar-2025,101,$400.1,Shipped
+ORD202589,Cineplex,Hospitality,Banner Print,"Montreal, Quebec",2025-07-05,08-Jul-2025,21,$95.33,Processing
+ORD202590,Adidas,Retail,LED Signage,"Vancouver, British Columbia",2025-03-11,14-Mar-2025,10,$113.51,Delivered
+ORD202591,Walmart,Construction,Lightbox Frame,"Mississauga, Ontario",2025-04-08,13-Apr-2025,35,212.99,Shipped
+ORD202592,Rogers,Sports,LED signage,"Halifax, Nova Scotia",2025-03-19,24-Mar-2025,77,$269.06,Processing
+ORD202593,Walmart,Hospitality,LED signage,"Surrey, British Columbia",2025-09-30,2025-10-06,174,$112.66,Processing
+ORD202594,Rogers,Hospitality,,"Vancouver, British Columbia",2025-02-25,26-Feb-2025,28,$282.36,Processing
+ORD202595,FIFA,Hospitality,Banner Print,"Toronto, Ontario",2025-01-05,2025-01-11,24,260.46,Shipped
+ORD202596,Nike,Hospitality,Acrylic Panel,"Mississauga, Ontario",02/12/2025,2025-12-06,48,$193.96,Shipped
+ORD202597,Walmart,Construction,LED signage,"Montreal, Quebec",2025-09-15,19-Sep-2025,64,$304.69,Delivered
+ORD202598,Rogers,Construction,LED signage,"Montreal, Quebec",05/08/2025,07-Aug-2025,102,$338.66,Delivered
+ORD202599,Rogers,Retail,LED signage,"Toronto, Ontario",2025-08-03,2025-08-07,168,499.65,Delivered
+ORD2025100,Cineplex,Sports,Acrylic Panel,"Halifax, Nova Scotia",2025-01-11,2025-01-16,63,291.59,Shipped
+ORD2025101,Lululemon,Events,Banner Print,"Montreal, Quebec",24/05/2025,2025-05-28,87,268.31,Delivered
+ORD2025102,Walmart,Construction,Banner Print,"Quebec City, Quebec",2025-02-22,28-Feb-2025,124,292.52,Processing
+ORD2025103,Nike,Hospitality,Acrylic Panel,"Surrey, British Columbia",05/03/2025,2025-03-11,136,$331.28,Delivered
+ORD2025104,Bell,Sports,banner print,"Quebec City, Quebec",14/07/2025,2025-07-20,75,229.16,Processing
+ORD2025105,Nike,Events,LED signage,"Mississauga, Ontario",2025-04-16,2025-04-22,51,$180.11,Delivered
+ORD2025106,Cineplex,Sports,Fabric Display,"Montreal, Quebec",28/06/2025,01-Jul-2025,148,223.05,Processing
+ORD2025107,Lululemon,Sports,LED Signage,"Halifax, Nova Scotia",2025-03-03,2025-03-06,162,$368.29,Delivered
+ORD2025108,Bell,Retail,Fabric Display,"Quebec City, Quebec",30/04/2025,2025-05-02,25,160.59,Shipped
+ORD2025109,Adidas,Hospitality,LED signage,"Toronto, Ontario",25/10/2025,2025-10-30,135,$143.08,Processing
+ORD2025110,Bell,Retail,Banner Print,"Calgary, Alberta",21/03/2025,2025-03-25,83,$228.55,Processing
+ORD2025111,Adidas,Construction,LED signage,"Montreal, Quebec",04/01/2025,2025-01-06,190,228.8,Processing
+ORD2025112,Cineplex,Hospitality,,"Vancouver, British Columbia",2025-09-12,2025-09-14,167,156.62,Delivered
+ORD2025113,Lululemon,Sports,LED signage,"Toronto, Ontario",02/04/2025,05-Apr-2025,36,$266.55,Processing
+ORD2025114,Lululemon,Events,Fabric Display,"Edmonton, Alberta",29/07/2025,04-Aug-2025,53,377.46,Processing
+ORD2025115,Rogers,Events,Acrylic Panel,"Quebec City, Quebec",17/12/2025,2025-12-23,101,$369.07,Delivered
+ORD2025116,Rogers,Sports,LED Signage,"Brampton, Ontario",2025-04-24,2025-04-27,70,$444.0,Delivered
+ORD2025117,Bell,Hospitality,Lightbox Frame,"Surrey, British Columbia",09/08/2025,13-Aug-2025,4,333.9,Processing
+ORD2025118,Cineplex,Hospitality,LED signage,"Edmonton, Alberta",20/09/2025,2025-09-23,97,$223.85,Shipped
+ORD2025119,Bell,Retail,banner print,"Brampton, Ontario",24/07/2025,30-Jul-2025,76,234.49,Delivered
+ORD2025120,Bell,Retail,LED signage," Winnipeg, Manitoba ",25/10/2025,2025-10-26,6,$421.81,Shipped
+ORD2025121,Lululemon,Retail,,"Mississauga, Ontario",19/04/2025,25-Apr-2025,141,38.84,Processing
+ORD2025122,FIFA,Hospitality,LED signage,"Calgary, Alberta",2025-04-16,21-Apr-2025,2,368.74,Delivered
+ORD2025123,FIFA,Retail,Acrylic Panel," Winnipeg, Manitoba ",23/11/2025,28-Nov-2025,40,388.44,Shipped
+ORD2025124,Lululemon,Retail,LED signage,"Brampton, Ontario",2025-04-25,2025-04-29,1,370.84,Shipped
+ORD2025125,Nike,Retail,,"Toronto, Ontario",2025-05-02,05-May-2025,29,304.33,Delivered
+ORD2025126,Rogers,Sports,banner print,"Surrey, British Columbia",09/02/2025,11-Feb-2025,87,$316.39,Processing
+ORD2025127,Adidas,Hospitality,Acrylic Panel,"Calgary, Alberta",26/04/2025,2025-04-29,81,$81.1,Delivered
+ORD2025128,Nike,Construction,Fabric Display,"Montreal, Quebec",2025-05-30,03-Jun-2025,130,$100.02,Delivered
+ORD2025129,Bell,Hospitality,Acrylic Panel,"Halifax, Nova Scotia",2025-05-17,20-May-2025,159,124.58,Processing
+ORD2025130,Nike,Construction,LED Signage,"Calgary, Alberta",2025-11-01,02-Nov-2025,125,$160.67,Delivered
+ORD2025131,Nike,Sports,Fabric Display,"Calgary, Alberta",2025-07-27,02-Aug-2025,166,254.2,Delivered
+ORD2025132,Walmart,Construction,banner print,"Toronto, Ontario",2025-11-02,03-Nov-2025,188,78.86,Shipped
+ORD2025133,Nike,Hospitality,LED Signage,"Vancouver, British Columbia",2025-07-07,2025-07-08,138,298.33,Shipped
+ORD2025134,Adidas,Retail,Lightbox Frame,"Halifax, Nova Scotia",2025-01-28,31-Jan-2025,48,158.49,Shipped
+ORD2025135,Walmart,Events,banner print,"Toronto, Ontario",2025-08-20,24-Aug-2025,93,45.96,Delivered
+ORD2025136,Rogers,Sports,,"Halifax, Nova Scotia",14/02/2025,20-Feb-2025,135,$175.53,Delivered
+ORD2025137,Lululemon,Sports,LED Signage," Winnipeg, Manitoba ",07/10/2025,08-Oct-2025,179,$387.33,Shipped
+ORD2025138,Nike,Sports,LED Signage,"Montreal, Quebec",29/10/2025,2025-11-04,43,394.72,Shipped
+ORD2025139,FIFA,Sports,LED signage,"Mississauga, Ontario",19/02/2025,2025-02-20,65,246.45,Delivered
+ORD2025140,Bell,Retail,LED signage,"Edmonton, Alberta",28/09/2025,2025-10-04,14,279.66,Shipped
+ORD2025141,Rogers,Sports,Acrylic Panel,"Mississauga, Ontario",2025-12-07,2025-12-09,178,$102.37,Shipped
+ORD2025142,Rogers,Retail,LED signage,"Mississauga, Ontario",04/12/2025,09-Dec-2025,186,$287.52,Shipped
+ORD2025143,Walmart,Hospitality,LED Signage," Winnipeg, Manitoba ",2025-06-22,2025-06-26,69,423.46,Processing
+ORD2025144,FIFA,Hospitality,,"Halifax, Nova Scotia",09/11/2025,2025-11-14,121,101.25,Processing
+ORD2025145,FIFA,Hospitality,,"Mississauga, Ontario",27/07/2025,2025-08-01,79,23.72,Shipped
+ORD2025146,Cineplex,Events,Banner Print,"Montreal, Quebec",02/11/2025,2025-11-03,126,348.18,Shipped
+ORD2025147,Cineplex,Retail,LED signage,"Surrey, British Columbia",27/06/2025,01-Jul-2025,105,$336.86,Delivered
+ORD2025148,FIFA,Retail,Fabric Display,"Surrey, British Columbia",08/03/2025,2025-03-12,136,408.65,Processing
+ORD2025149,Walmart,Events,,"Surrey, British Columbia",2025-01-07,12-Jan-2025,187,341.59,Shipped
+ORD2025150,Adidas,Construction,,"Vancouver, British Columbia",02/05/2025,2025-05-05,113,$496.82,Processing
+ORD2025151,Nike,Sports,banner print,"Quebec City, Quebec",2025-11-30,2025-12-01,163,$228.39,Delivered
+ORD2025152,Walmart,Sports,Banner Print,"Surrey, British Columbia",22/03/2025,2025-03-28,179,$155.63,Processing
+ORD2025153,Rogers,Construction,Lightbox Frame," Winnipeg, Manitoba ",12/12/2025,17-Dec-2025,115,$16.55,Processing
+ORD2025154,Lululemon,Sports,Banner Print,"Quebec City, Quebec",18/03/2025,22-Mar-2025,60,270.13,Delivered
+ORD2025155,Adidas,Construction,banner print,"Brampton, Ontario",18/03/2025,2025-03-21,112,433.17,Delivered
+ORD2025156,Adidas,Hospitality,Acrylic Panel,"Montreal, Quebec",10/02/2025,2025-02-11,155,$330.37,Shipped
+ORD2025157,Walmart,Events,LED signage,"Quebec City, Quebec",2025-05-24,2025-05-28,5,393.51,Shipped
+ORD2025158,Cineplex,Hospitality,LED signage,"Brampton, Ontario",11/02/2025,12-Feb-2025,2,$481.45,Processing
+ORD2025159,Bell,Construction,banner print,"Mississauga, Ontario",2025-10-29,31-Oct-2025,60,390.57,Shipped
+ORD2025160,Rogers,Events,Lightbox Frame,"Brampton, Ontario",07/02/2025,09-Feb-2025,180,307.8,Delivered
+ORD2025161,FIFA,Retail,Banner Print,"Quebec City, Quebec",2025-03-25,2025-03-27,199,$52.73,Shipped
+ORD2025162,Rogers,Sports,Acrylic Panel,"Montreal, Quebec",2025-09-27,2025-09-28,187,$458.78,Processing
+ORD2025163,Bell,Hospitality,LED Signage,"Montreal, Quebec",2025-10-09,10-Oct-2025,52,$327.05,Shipped
+ORD2025164,Bell,Sports,Acrylic Panel,"Mississauga, Ontario",17/07/2025,2025-07-21,14,94.82,Delivered
+ORD2025165,Rogers,Construction,,"Surrey, British Columbia",26/08/2025,27-Aug-2025,44,473.31,Delivered
+ORD2025166,Adidas,Retail,Fabric Display,"Calgary, Alberta",01/09/2025,2025-09-07,52,196.59,Delivered
+ORD2025167,Bell,Retail,Fabric Display,"Halifax, Nova Scotia",2025-04-27,2025-05-01,3,82.07,Processing
+ORD2025168,Bell,Hospitality,Banner Print,"Calgary, Alberta",2025-10-18,2025-10-23,45,95.63,Processing
+ORD2025169,Walmart,Events,Fabric Display,"Calgary, Alberta",2025-09-04,2025-09-06,179,303.65,Shipped
+ORD2025170,Nike,Hospitality,Lightbox Frame,"Quebec City, Quebec",2025-03-02,2025-03-06,115,$38.94,Delivered
+ORD2025171,Cineplex,Hospitality,,"Montreal, Quebec",29/12/2025,2025-12-31,32,$76.97,Shipped
+ORD2025172,Lululemon,Sports,,"Calgary, Alberta",2025-04-23,2025-04-25,107,253.04,Shipped
+ORD2025173,FIFA,Construction,Acrylic Panel,"Mississauga, Ontario",2025-11-30,01-Dec-2025,80,452.11,Processing
+ORD2025174,Adidas,Retail,,"Surrey, British Columbia",10/09/2025,2025-09-15,57,$107.7,Shipped
+ORD2025175,Nike,Events,banner print,"Montreal, Quebec",04/02/2025,2025-02-05,127,$12.51,Delivered
+ORD2025176,Rogers,Construction,LED signage,"Edmonton, Alberta",2025-10-13,19-Oct-2025,154,359.59,Delivered
+ORD2025177,Cineplex,Construction,Acrylic Panel,"Edmonton, Alberta",2025-08-16,2025-08-19,191,$64.0,Shipped
+ORD2025178,Nike,Events,LED Signage," Winnipeg, Manitoba ",2025-01-17,2025-01-19,12,194.22,Shipped
+ORD2025179,Adidas,Hospitality,Acrylic Panel,"Mississauga, Ontario",2025-10-25,2025-10-31,182,357.68,Delivered
+ORD2025180,Cineplex,Sports,LED signage," Winnipeg, Manitoba ",28/09/2025,02-Oct-2025,3,366.64,Shipped
+ORD2025181,Lululemon,Hospitality,Acrylic Panel," Winnipeg, Manitoba ",30/10/2025,2025-11-03,187,339.47,Shipped
+ORD2025182,Bell,Retail,,"Surrey, British Columbia",06/01/2025,11-Jan-2025,108,$153.0,Shipped
+ORD2025183,Lululemon,Hospitality,Acrylic Panel," Winnipeg, Manitoba ",2025-06-16,17-Jun-2025,87,20.32,Shipped
+ORD2025184,Nike,Hospitality,Acrylic Panel,"Brampton, Ontario",30/04/2025,2025-05-02,133,$310.88,Processing
+ORD2025185,Walmart,Sports,Banner Print,"Calgary, Alberta",20/02/2025,25-Feb-2025,34,182.61,Delivered
+ORD2025186,Bell,Retail,LED Signage,"Halifax, Nova Scotia",20/10/2025,21-Oct-2025,148,$187.54,Shipped
+ORD2025187,Bell,Events,LED signage,"Surrey, British Columbia",2025-02-04,2025-02-06,111,308.64,Processing
+ORD2025188,Adidas,Retail,LED signage,"Brampton, Ontario",2025-04-29,2025-04-30,150,$437.43,Processing
+ORD2025189,Rogers,Sports,LED signage,"Mississauga, Ontario",2025-05-15,16-May-2025,145,399.53,Processing
+ORD2025190,FIFA,Events,Banner Print," Winnipeg, Manitoba ",08/07/2025,2025-07-09,68,$274.99,Delivered
+ORD2025191,Rogers,Construction,Acrylic Panel,"Mississauga, Ontario",2025-04-02,2025-04-05,101,$126.05,Delivered
+ORD2025192,Walmart,Sports,Acrylic Panel," Winnipeg, Manitoba ",2025-11-17,2025-11-21,167,$338.57,Delivered
+ORD2025193,Rogers,Sports,LED Signage,"Brampton, Ontario",17/02/2025,2025-02-19,173,$60.21,Delivered
+ORD2025194,Rogers,Hospitality,Lightbox Frame,"Montreal, Quebec",23/10/2025,2025-10-29,106,286.12,Shipped
+ORD2025195,Adidas,Events,Banner Print,"Vancouver, British Columbia",2025-11-18,2025-11-23,115,63.55,Delivered
+ORD2025196,Walmart,Sports,LED signage,"Brampton, Ontario",23/05/2025,28-May-2025,111,287.96,Processing
+ORD2025197,FIFA,Retail,,"Quebec City, Quebec",17/08/2025,18-Aug-2025,3,355.69,Shipped
+ORD2025198,Walmart,Events,Lightbox Frame,"Calgary, Alberta",18/09/2025,22-Sep-2025,173,$126.73,Shipped
+ORD2025199,Adidas,Events,Fabric Display,"Brampton, Ontario",02/11/2025,2025-11-06,22,$438.37,Delivered
+ORD2025200,Adidas,Events,Lightbox Frame,"Halifax, Nova Scotia",14/04/2025,2025-04-20,84,$426.14,Delivered
+ORD2025201,Adidas,Construction,LED signage,"Brampton, Ontario",08/01/2025,14-Jan-2025,1,$81.0,Delivered
+ORD2025202,Adidas,Construction,Fabric Display,"Calgary, Alberta",2025-02-15,19-Feb-2025,81,$453.69,Processing
+ORD2025203,Bell,Sports,Lightbox Frame,"Toronto, Ontario",14/04/2025,17-Apr-2025,27,87.87,Processing
+ORD2025204,Bell,Construction,LED Signage,"Calgary, Alberta",26/11/2025,02-Dec-2025,105,442.76,Shipped
+ORD2025205,Lululemon,Sports,LED Signage,"Vancouver, British Columbia",26/03/2025,2025-03-29,200,166.47,Shipped
+ORD2025206,Lululemon,Hospitality,Lightbox Frame,"Surrey, British Columbia",2025-07-02,2025-07-05,99,289.98,Shipped
+ORD2025207,FIFA,Hospitality,Banner Print,"Surrey, British Columbia",22/02/2025,2025-02-24,40,$338.65,Shipped
+ORD2025208,Rogers,Construction,Acrylic Panel,"Calgary, Alberta",12/06/2025,18-Jun-2025,37,39.48,Delivered
+ORD2025209,Adidas,Retail,Acrylic Panel,"Montreal, Quebec",2025-09-05,09-Sep-2025,48,$163.89,Processing
+ORD2025210,Nike,Sports,Fabric Display,"Calgary, Alberta",01/03/2025,05-Mar-2025,143,$127.13,Delivered
+ORD2025211,Walmart,Sports,LED signage,"Edmonton, Alberta",05/01/2025,11-Jan-2025,172,263.3,Shipped
+ORD2025212,Lululemon,Sports,LED Signage,"Halifax, Nova Scotia",2025-10-14,2025-10-15,178,$161.92,Delivered
+ORD2025213,Bell,Events,LED Signage,"Quebec City, Quebec",2025-07-23,2025-07-29,45,$114.13,Delivered
+ORD2025214,Adidas,Hospitality,LED Signage," Winnipeg, Manitoba ",2025-04-25,2025-04-27,77,$291.83,Shipped
+ORD2025215,Rogers,Construction,Banner Print,"Vancouver, British Columbia",2025-07-02,2025-07-05,174,410.57,Processing
+ORD2025216,Rogers,Sports,,"Montreal, Quebec",2025-05-06,2025-05-10,56,184.5,Processing
+ORD2025217,Nike,Hospitality,,"Surrey, British Columbia",2025-06-16,20-Jun-2025,109,$161.48,Shipped
+ORD2025218,FIFA,Hospitality,Lightbox Frame,"Mississauga, Ontario",2025-05-17,19-May-2025,4,$196.3,Shipped
+ORD2025219,Cineplex,Construction,LED signage,"Calgary, Alberta",2025-01-26,2025-01-27,159,137.65,Shipped
+ORD2025220,Rogers,Retail,Acrylic Panel,"Quebec City, Quebec",2025-04-05,2025-04-08,51,294.33,Processing
+ORD2025221,Cineplex,Construction,Lightbox Frame,"Brampton, Ontario",03/05/2025,09-May-2025,197,445.12,Processing
+ORD2025222,Nike,Sports,,"Calgary, Alberta",12/08/2025,17-Aug-2025,164,276.32,Shipped
+ORD2025223,Lululemon,Retail,Acrylic Panel,"Montreal, Quebec",15/09/2025,21-Sep-2025,58,$289.82,Shipped
+ORD2025224,Bell,Sports,Fabric Display,"Edmonton, Alberta",04/10/2025,2025-10-05,137,431.14,Shipped
+ORD2025225,Nike,Construction,,"Brampton, Ontario",2025-09-26,2025-09-29,153,29.0,Delivered
+ORD2025226,Cineplex,Events,LED signage,"Surrey, British Columbia",19/03/2025,2025-03-25,168,$50.34,Shipped
+ORD2025227,Adidas,Events,Fabric Display,"Surrey, British Columbia",2025-07-02,2025-07-08,81,110.32,Shipped
+ORD2025228,Lululemon,Hospitality,LED signage,"Mississauga, Ontario",2025-04-03,09-Apr-2025,21,53.36,Processing
+ORD2025229,Walmart,Retail,," Winnipeg, Manitoba ",31/07/2025,05-Aug-2025,151,$491.75,Delivered
+ORD2025230,Nike,Sports,Acrylic Panel,"Vancouver, British Columbia",12/03/2025,14-Mar-2025,32,$261.78,Delivered
+ORD2025231,Rogers,Sports,,"Toronto, Ontario",10/01/2025,2025-01-12,166,229.3,Delivered
+ORD2025232,Rogers,Construction,Acrylic Panel,"Brampton, Ontario",17/12/2025,2025-12-23,38,$338.79,Delivered
+ORD2025233,Nike,Retail,banner print,"Brampton, Ontario",2025-11-20,21-Nov-2025,101,$229.7,Delivered
+ORD2025234,Bell,Construction,LED Signage,"Vancouver, British Columbia",2025-01-01,02-Jan-2025,29,$263.42,Shipped
+ORD2025235,Adidas,Hospitality,Banner Print,"Surrey, British Columbia",2025-10-09,12-Oct-2025,66,$490.25,Delivered
+ORD2025236,FIFA,Retail,,"Halifax, Nova Scotia",2025-05-15,20-May-2025,60,446.66,Shipped
+ORD2025237,FIFA,Construction,LED Signage,"Edmonton, Alberta",2025-03-18,2025-03-23,152,273.87,Delivered
+ORD2025238,Rogers,Retail,Acrylic Panel,"Halifax, Nova Scotia",28/08/2025,2025-08-29,167,$488.26,Shipped
+ORD2025239,Cineplex,Retail,LED signage,"Edmonton, Alberta",2025-05-21,2025-05-24,163,134.46,Delivered
+ORD2025240,FIFA,Sports,Acrylic Panel,"Vancouver, British Columbia",14/08/2025,2025-08-20,145,$405.24,Shipped
+ORD2025241,FIFA,Hospitality,LED signage,"Surrey, British Columbia",09/12/2025,15-Dec-2025,96,$324.81,Processing
+ORD2025242,Bell,Events,LED signage,"Surrey, British Columbia",2025-12-28,2025-12-30,92,445.5,Delivered
+ORD2025243,Nike,Retail,Banner Print,"Montreal, Quebec",2025-12-27,01-Jan-2026,132,397.5,Processing
+ORD2025244,Cineplex,Events,Banner Print,"Quebec City, Quebec",16/05/2025,2025-05-22,38,66.38,Delivered
+ORD2025245,Nike,Construction,LED Signage,"Calgary, Alberta",27/05/2025,2025-05-30,42,$180.94,Processing
+ORD2025246,Nike,Sports,banner print,"Calgary, Alberta",2025-05-16,22-May-2025,22,124.36,Delivered
+ORD2025247,Lululemon,Sports,Acrylic Panel,"Toronto, Ontario",16/11/2025,2025-11-18,159,124.66,Processing
+ORD2025248,Walmart,Hospitality,banner print,"Calgary, Alberta",23/05/2025,26-May-2025,33,292.09,Delivered
+ORD2025249,Cineplex,Hospitality,Acrylic Panel,"Brampton, Ontario",07/10/2025,2025-10-12,63,$287.28,Shipped
+ORD2025250,Walmart,Sports,LED Signage,"Edmonton, Alberta",2025-02-12,2025-02-14,72,477.91,Shipped
+ORD2025251,Cineplex,Hospitality,Acrylic Panel,"Edmonton, Alberta",2025-07-04,09-Jul-2025,55,63.1,Shipped
+ORD2025252,Adidas,Sports,LED signage,"Halifax, Nova Scotia",2025-10-19,20-Oct-2025,118,466.12,Shipped
+ORD2025253,Adidas,Construction,,"Edmonton, Alberta",25/03/2025,2025-03-29,135,$368.16,Processing
+ORD2025254,Lululemon,Construction,LED Signage,"Mississauga, Ontario",02/05/2025,2025-05-08,51,$163.78,Shipped
+ORD2025255,Lululemon,Retail,Acrylic Panel," Winnipeg, Manitoba ",06/11/2025,2025-11-09,65,$173.78,Processing
+ORD2025256,Adidas,Sports,Banner Print,"Vancouver, British Columbia",11/05/2025,17-May-2025,41,229.52,Shipped
+ORD2025257,FIFA,Retail,Acrylic Panel,"Toronto, Ontario",2025-08-09,13-Aug-2025,9,286.63,Delivered
+ORD2025258,Rogers,Sports,LED signage,"Vancouver, British Columbia",2025-04-30,02-May-2025,70,467.79,Delivered
+ORD2025259,Walmart,Construction,,"Vancouver, British Columbia",05/06/2025,06-Jun-2025,63,$83.42,Processing
+ORD2025260,Adidas,Events,Lightbox Frame,"Montreal, Quebec",2025-03-11,15-Mar-2025,185,$322.48,Delivered
+ORD2025261,Rogers,Construction,Banner Print,"Vancouver, British Columbia",2025-11-01,05-Nov-2025,139,$136.75,Processing
+ORD2025262,Walmart,Retail,LED Signage," Winnipeg, Manitoba ",2025-08-19,25-Aug-2025,33,$416.15,Delivered
+ORD2025263,Walmart,Retail,,"Calgary, Alberta",2025-07-15,2025-07-19,57,$452.49,Delivered
+ORD2025264,Adidas,Hospitality,,"Toronto, Ontario",21/07/2025,2025-07-23,179,$47.12,Delivered
+ORD2025265,Adidas,Construction,LED Signage,"Toronto, Ontario",2025-08-07,12-Aug-2025,32,$53.18,Processing
+ORD2025266,Bell,Hospitality,banner print,"Brampton, Ontario",2025-04-14,18-Apr-2025,42,144.89,Shipped
+ORD2025267,Cineplex,Sports,LED signage,"Toronto, Ontario",29/03/2025,2025-04-03,23,275.27,Processing
+ORD2025268,Adidas,Construction,Lightbox Frame,"Montreal, Quebec",2025-04-23,2025-04-28,64,68.06,Shipped
+ORD2025269,Lululemon,Construction,Banner Print,"Toronto, Ontario",10/06/2025,12-Jun-2025,108,110.44,Processing
+ORD2025270,FIFA,Sports,Fabric Display,"Surrey, British Columbia",29/01/2025,2025-01-30,150,$264.19,Shipped
+ORD2025271,Walmart,Sports,Fabric Display,"Halifax, Nova Scotia",31/05/2025,01-Jun-2025,200,478.14,Delivered
+ORD2025272,Nike,Events,LED signage,"Surrey, British Columbia",2025-08-14,2025-08-15,19,198.52,Processing
+ORD2025273,Rogers,Sports,LED Signage,"Calgary, Alberta",2025-06-02,2025-06-06,28,$485.72,Processing
+ORD2025274,Nike,Retail,LED Signage,"Toronto, Ontario",24/01/2025,2025-01-30,193,190.79,Processing
+ORD2025275,Rogers,Hospitality,banner print,"Surrey, British Columbia",2025-03-24,2025-03-26,28,285.47,Shipped
+ORD2025276,Lululemon,Sports,LED Signage,"Halifax, Nova Scotia",2025-12-08,2025-12-11,67,$384.1,Delivered
+ORD2025277,Cineplex,Retail,LED Signage,"Edmonton, Alberta",07/06/2025,2025-06-08,111,36.54,Shipped
+ORD2025278,Lululemon,Construction,,"Edmonton, Alberta",2025-07-15,2025-07-20,118,$352.19,Processing
+ORD2025279,Walmart,Events,LED signage,"Surrey, British Columbia",2025-06-23,2025-06-25,154,$491.96,Processing
+ORD2025280,Walmart,Events,Banner Print,"Mississauga, Ontario",17/08/2025,2025-08-19,32,450.18,Processing
+ORD2025281,Walmart,Retail,LED Signage,"Toronto, Ontario",19/10/2025,2025-10-22,33,$171.08,Processing
+ORD2025282,Adidas,Construction,banner print,"Montreal, Quebec",06/04/2025,2025-04-11,181,433.34,Delivered
+ORD2025283,Cineplex,Hospitality,Fabric Display,"Edmonton, Alberta",14/08/2025,2025-08-18,68,$60.5,Shipped
+ORD2025284,Cineplex,Construction,Banner Print,"Quebec City, Quebec",16/02/2025,21-Feb-2025,36,186.19,Delivered
+ORD2025285,Walmart,Sports,Banner Print,"Edmonton, Alberta",15/03/2025,2025-03-16,24,142.02,Processing
+ORD2025286,Rogers,Events,LED signage,"Edmonton, Alberta",2025-11-01,2025-11-03,148,77.65,Processing
+ORD2025287,Rogers,Construction,banner print,"Calgary, Alberta",2025-02-25,01-Mar-2025,78,$194.21,Shipped
+ORD2025288,Nike,Events,Acrylic Panel,"Brampton, Ontario",2025-01-05,07-Jan-2025,114,$255.52,Shipped
+ORD2025289,Nike,Retail,LED Signage,"Calgary, Alberta",19/08/2025,2025-08-21,33,405.78,Shipped
+ORD2025290,FIFA,Events,Lightbox Frame,"Edmonton, Alberta",2025-12-09,2025-12-13,32,176.07,Shipped
+ORD2025291,Adidas,Sports,LED signage,"Surrey, British Columbia",2025-08-22,28-Aug-2025,21,463.7,Processing
+ORD2025292,Nike,Sports,LED signage,"Toronto, Ontario",2025-05-28,2025-05-31,61,241.83,Delivered
+ORD2025293,Walmart,Construction,Lightbox Frame,"Quebec City, Quebec",2025-04-06,12-Apr-2025,135,$130.64,Delivered
+ORD2025294,Nike,Hospitality,Banner Print,"Calgary, Alberta",03/04/2025,06-Apr-2025,2,377.38,Shipped
+ORD2025295,FIFA,Hospitality,Lightbox Frame,"Calgary, Alberta",2025-06-04,2025-06-07,24,$296.86,Delivered
+ORD2025296,Cineplex,Sports,LED signage,"Halifax, Nova Scotia",15/04/2025,2025-04-21,145,80.85,Processing
+ORD2025297,Lululemon,Construction,LED signage,"Calgary, Alberta",26/12/2025,27-Dec-2025,104,$194.38,Delivered
+ORD2025298,Lululemon,Retail,Lightbox Frame,"Brampton, Ontario",30/03/2025,05-Apr-2025,100,$422.46,Processing
+ORD2025299,Walmart,Hospitality,banner print,"Vancouver, British Columbia",17/01/2025,19-Jan-2025,72,104.09,Processing
+ORD2025300,Lululemon,Construction,LED Signage,"Calgary, Alberta",22/09/2025,2025-09-27,94,$465.12,Delivered
+ORD2025301,Adidas,Sports,banner print,"Mississauga, Ontario",19/11/2025,21-Nov-2025,107,$53.41,Processing
+ORD2025302,Rogers,Events,LED signage,"Calgary, Alberta",23/05/2025,2025-05-27,99,117.7,Delivered
+ORD2025303,Bell,Hospitality,Fabric Display,"Vancouver, British Columbia",14/02/2025,2025-02-18,159,267.4,Shipped
+ORD2025304,Lululemon,Construction,Fabric Display,"Surrey, British Columbia",08/05/2025,10-May-2025,53,$343.99,Shipped
+ORD2025305,Lululemon,Hospitality,,"Toronto, Ontario",10/08/2025,2025-08-13,119,103.89,Delivered
+ORD2025306,Cineplex,Construction,Fabric Display,"Quebec City, Quebec",30/01/2025,01-Feb-2025,127,$214.4,Delivered
+ORD2025307,Cineplex,Events,Banner Print," Winnipeg, Manitoba ",2025-02-01,02-Feb-2025,136,429.49,Shipped
+ORD2025308,Cineplex,Events,Banner Print,"Quebec City, Quebec",13/09/2025,15-Sep-2025,161,$182.44,Processing
+ORD2025309,Rogers,Sports,banner print,"Brampton, Ontario",06/06/2025,12-Jun-2025,108,138.64,Delivered
+ORD2025310,Lululemon,Retail,LED signage,"Mississauga, Ontario",2025-04-14,2025-04-17,42,144.03,Processing
+ORD2025311,Adidas,Events,Fabric Display,"Mississauga, Ontario",28/12/2025,2025-12-30,137,$350.94,Shipped
+ORD2025312,FIFA,Events,Lightbox Frame,"Calgary, Alberta",20/07/2025,2025-07-24,88,$117.35,Delivered
+ORD2025313,Nike,Retail,Lightbox Frame,"Edmonton, Alberta",14/04/2025,19-Apr-2025,196,173.52,Delivered
+ORD2025314,Walmart,Events,LED signage,"Edmonton, Alberta",2025-04-28,2025-04-30,148,$485.73,Delivered
+ORD2025315,Nike,Events,Fabric Display,"Brampton, Ontario",2025-05-31,2025-06-02,193,174.17,Processing
+ORD2025316,Lululemon,Sports,Lightbox Frame,"Toronto, Ontario",2025-06-30,05-Jul-2025,102,356.69,Shipped
+ORD2025317,Rogers,Construction,Fabric Display,"Montreal, Quebec",2025-10-15,2025-10-20,49,480.19,Processing
+ORD2025318,Nike,Retail,LED Signage," Winnipeg, Manitoba ",2025-03-27,2025-04-02,99,$82.12,Shipped
+ORD2025319,Adidas,Retail,LED Signage,"Toronto, Ontario",13/06/2025,2025-06-15,7,$15.49,Shipped
+ORD2025320,Bell,Retail,Fabric Display,"Quebec City, Quebec",12/04/2025,2025-04-13,63,$208.09,Processing
+ORD2025321,Adidas,Hospitality,LED signage,"Mississauga, Ontario",2025-04-13,16-Apr-2025,6,$296.31,Delivered
+ORD2025322,Rogers,Events,LED signage,"Vancouver, British Columbia",28/03/2025,01-Apr-2025,13,406.15,Shipped
+ORD2025323,Walmart,Hospitality,LED Signage,"Edmonton, Alberta",09/10/2025,11-Oct-2025,12,$157.05,Processing
+ORD2025324,Walmart,Sports,,"Quebec City, Quebec",08/10/2025,13-Oct-2025,87,21.32,Processing
+ORD2025325,Lululemon,Retail,,"Montreal, Quebec",2025-03-09,2025-03-13,100,77.89,Delivered
+ORD2025326,Adidas,Events,,"Quebec City, Quebec",2025-11-27,2025-12-01,15,382.73,Delivered
+ORD2025327,Lululemon,Retail,Lightbox Frame,"Halifax, Nova Scotia",01/11/2025,03-Nov-2025,197,49.5,Shipped
+ORD2025328,Rogers,Hospitality,banner print,"Vancouver, British Columbia",2025-09-24,30-Sep-2025,12,68.26,Processing
+ORD2025329,Walmart,Construction,,"Calgary, Alberta",2025-09-12,2025-09-16,136,399.7,Delivered
+ORD2025330,Nike,Construction,Fabric Display," Winnipeg, Manitoba ",2025-03-27,2025-04-02,24,$256.25,Delivered
+ORD2025331,Bell,Hospitality,LED Signage,"Quebec City, Quebec",16/04/2025,2025-04-18,144,33.34,Shipped
+ORD2025332,Rogers,Construction,Lightbox Frame,"Quebec City, Quebec",09/12/2025,2025-12-11,191,336.59,Shipped
+ORD2025333,Lululemon,Sports,Fabric Display,"Edmonton, Alberta",2025-10-12,2025-10-17,107,411.82,Shipped
+ORD2025334,Cineplex,Events,LED Signage,"Vancouver, British Columbia",2025-03-20,2025-03-25,124,$94.55,Delivered
+ORD2025335,Cineplex,Sports,Fabric Display,"Montreal, Quebec",2025-02-27,2025-03-02,50,119.84,Delivered
+ORD2025336,Cineplex,Sports,Fabric Display,"Surrey, British Columbia",2025-06-19,2025-06-24,124,107.64,Processing
+ORD2025337,Cineplex,Retail,Fabric Display," Winnipeg, Manitoba ",2025-01-13,18-Jan-2025,89,130.06,Processing
+ORD2025338,Cineplex,Events,Banner Print,"Montreal, Quebec",07/08/2025,09-Aug-2025,68,155.95,Delivered
+ORD2025339,Walmart,Construction,banner print,"Calgary, Alberta",27/11/2025,2025-12-03,184,184.42,Processing
+ORD2025340,FIFA,Sports,LED Signage,"Surrey, British Columbia",2025-12-23,25-Dec-2025,73,499.56,Processing
+ORD2025341,Cineplex,Hospitality,Lightbox Frame,"Toronto, Ontario",2025-02-21,27-Feb-2025,15,$424.97,Delivered
+ORD2025342,Cineplex,Events,,"Brampton, Ontario",2025-03-01,2025-03-02,152,$291.57,Processing
+ORD2025343,Walmart,Events,Fabric Display,"Montreal, Quebec",01/12/2025,03-Dec-2025,126,$230.67,Delivered
+ORD2025344,Lululemon,Construction,,"Brampton, Ontario",2025-06-20,2025-06-24,32,$70.23,Shipped
+ORD2025345,FIFA,Events,,"Brampton, Ontario",2025-12-05,2025-12-08,58,445.93,Shipped
+ORD2025346,Adidas,Retail,Lightbox Frame,"Mississauga, Ontario",09/02/2025,12-Feb-2025,52,$144.87,Processing
+ORD2025347,Lululemon,Retail,Banner Print,"Calgary, Alberta",2025-09-11,17-Sep-2025,44,$154.3,Shipped
+ORD2025348,Bell,Hospitality,,"Brampton, Ontario",2025-09-07,10-Sep-2025,170,72.28,Processing
+ORD2025349,Bell,Events,Banner Print,"Toronto, Ontario",13/05/2025,16-May-2025,112,$64.01,Delivered
+ORD2025350,Bell,Construction,Fabric Display,"Mississauga, Ontario",2025-10-10,14-Oct-2025,126,148.61,Delivered
+ORD2025351,Adidas,Hospitality,Banner Print,"Surrey, British Columbia",2025-02-18,24-Feb-2025,140,$408.99,Shipped
+ORD2025352,Bell,Events,LED signage," Winnipeg, Manitoba ",2025-04-05,11-Apr-2025,37,$174.55,Delivered
+ORD2025353,FIFA,Construction,Banner Print,"Calgary, Alberta",20/12/2025,21-Dec-2025,43,$216.21,Shipped
+ORD2025354,Adidas,Sports,LED signage,"Montreal, Quebec",2025-10-26,2025-10-31,107,446.16,Delivered
+ORD2025355,Nike,Sports,LED signage,"Montreal, Quebec",2025-09-22,2025-09-23,56,$35.95,Delivered
+ORD2025356,Cineplex,Hospitality,LED signage,"Calgary, Alberta",2025-01-20,22-Jan-2025,23,345.2,Delivered
+ORD2025357,Walmart,Construction,Fabric Display,"Halifax, Nova Scotia",14/03/2025,2025-03-20,200,$104.89,Delivered
+ORD2025358,Rogers,Hospitality,Lightbox Frame,"Halifax, Nova Scotia",02/11/2025,2025-11-04,124,349.53,Shipped
+ORD2025359,Bell,Construction,LED Signage,"Vancouver, British Columbia",25/09/2025,30-Sep-2025,107,354.33,Processing
+ORD2025360,Bell,Hospitality,LED Signage,"Edmonton, Alberta",2025-08-17,2025-08-18,46,28.72,Delivered
+ORD2025361,Rogers,Events,Lightbox Frame,"Vancouver, British Columbia",2025-11-25,2025-11-29,32,$160.05,Shipped
+ORD2025362,Walmart,Retail,Acrylic Panel,"Halifax, Nova Scotia",20/11/2025,2025-11-25,34,359.2,Shipped
+ORD2025363,Cineplex,Sports,Acrylic Panel,"Halifax, Nova Scotia",06/04/2025,2025-04-08,63,$131.7,Shipped
+ORD2025364,Bell,Events,Lightbox Frame,"Halifax, Nova Scotia",2025-08-06,08-Aug-2025,131,330.29,Shipped
+ORD2025365,Adidas,Hospitality,Fabric Display,"Halifax, Nova Scotia",2025-01-27,30-Jan-2025,1,469.03,Delivered
+ORD2025366,Lululemon,Retail,Acrylic Panel,"Montreal, Quebec",13/01/2025,2025-01-16,68,88.9,Delivered
+ORD2025367,Bell,Sports,Banner Print,"Vancouver, British Columbia",03/12/2025,2025-12-04,72,$162.09,Shipped
+ORD2025368,Rogers,Retail,LED Signage,"Quebec City, Quebec",12/07/2025,18-Jul-2025,57,$33.04,Shipped
+ORD2025369,Lululemon,Events,Lightbox Frame,"Vancouver, British Columbia",31/07/2025,2025-08-06,91,$41.14,Delivered
+ORD2025370,FIFA,Events,Banner Print,"Brampton, Ontario",04/07/2025,09-Jul-2025,181,$118.52,Processing
+ORD2025371,Walmart,Construction,LED signage,"Montreal, Quebec",2025-12-17,2025-12-18,173,347.89,Processing
+ORD2025372,Cineplex,Retail,Banner Print,"Halifax, Nova Scotia",20/04/2025,22-Apr-2025,57,$32.7,Delivered
+ORD2025373,Rogers,Sports,Fabric Display,"Halifax, Nova Scotia",27/12/2025,01-Jan-2026,180,$415.0,Delivered
+ORD2025374,Lululemon,Sports,,"Vancouver, British Columbia",10/10/2025,14-Oct-2025,55,383.09,Delivered
+ORD2025375,Cineplex,Events,Acrylic Panel,"Halifax, Nova Scotia",2025-07-11,12-Jul-2025,120,350.44,Shipped
+ORD2025376,Adidas,Events,,"Mississauga, Ontario",02/07/2025,2025-07-06,7,$98.09,Delivered
+ORD2025377,Cineplex,Retail,LED Signage,"Edmonton, Alberta",2025-01-11,15-Jan-2025,104,$316.19,Shipped
+ORD2025378,FIFA,Sports,Acrylic Panel," Winnipeg, Manitoba ",2025-04-22,2025-04-26,97,45.78,Delivered
+ORD2025379,Adidas,Hospitality,LED signage," Winnipeg, Manitoba ",18/11/2025,2025-11-20,15,$238.24,Delivered
+ORD2025380,Cineplex,Hospitality,Banner Print,"Mississauga, Ontario",2025-02-25,02-Mar-2025,55,461.76,Delivered
+ORD2025381,Nike,Construction,banner print," Winnipeg, Manitoba ",18/07/2025,2025-07-21,129,201.98,Delivered
+ORD2025382,Nike,Retail,LED signage,"Mississauga, Ontario",2025-03-07,12-Mar-2025,74,$390.73,Processing
+ORD2025383,FIFA,Hospitality,Lightbox Frame,"Vancouver, British Columbia",2025-12-09,11-Dec-2025,58,178.16,Delivered
+ORD2025384,Walmart,Hospitality,Banner Print,"Montreal, Quebec",01/01/2025,04-Jan-2025,195,269.62,Delivered
+ORD2025385,Cineplex,Construction,LED signage,"Halifax, Nova Scotia",16/01/2025,2025-01-18,160,155.57,Delivered
+ORD2025386,Cineplex,Events,LED Signage," Winnipeg, Manitoba ",05/10/2025,09-Oct-2025,57,$81.12,Shipped
+ORD2025387,Rogers,Sports,Acrylic Panel,"Toronto, Ontario",2025-03-22,2025-03-26,122,$403.03,Delivered
+ORD2025388,Rogers,Events,Fabric Display,"Calgary, Alberta",16/08/2025,2025-08-22,55,$437.52,Shipped
+ORD2025389,Rogers,Events,banner print," Winnipeg, Manitoba ",09/12/2025,2025-12-14,120,482.51,Delivered
+ORD2025390,Bell,Sports,Fabric Display,"Vancouver, British Columbia",13/03/2025,2025-03-18,157,$449.32,Shipped
+ORD2025391,Adidas,Events,Lightbox Frame,"Montreal, Quebec",16/02/2025,2025-02-20,23,$58.01,Shipped
+ORD2025392,Bell,Events,banner print,"Montreal, Quebec",2025-05-12,2025-05-15,160,457.29,Delivered
+ORD2025393,Adidas,Sports,Lightbox Frame,"Surrey, British Columbia",2025-10-17,18-Oct-2025,21,474.29,Shipped
+ORD2025394,Rogers,Retail,Fabric Display,"Mississauga, Ontario",2025-02-27,04-Mar-2025,84,460.91,Delivered
+ORD2025395,Bell,Hospitality,banner print,"Toronto, Ontario",2025-02-21,24-Feb-2025,165,290.8,Processing
+ORD2025396,Cineplex,Construction,Lightbox Frame,"Calgary, Alberta",2025-02-23,26-Feb-2025,25,351.79,Delivered
+ORD2025397,Cineplex,Events,LED Signage,"Mississauga, Ontario",2025-05-29,01-Jun-2025,113,275.7,Delivered
+ORD2025398,Cineplex,Events,Fabric Display," Winnipeg, Manitoba ",20/01/2025,2025-01-21,14,$82.92,Processing
+ORD2025399,Lululemon,Retail,LED signage,"Edmonton, Alberta",29/08/2025,03-Sep-2025,37,$180.95,Shipped
+ORD2025400,Lululemon,Events,,"Vancouver, British Columbia",2025-10-25,2025-10-28,89,$362.97,Delivered
+ORD2025401,Bell,Construction,LED Signage,"Surrey, British Columbia",12/07/2025,2025-07-18,181,474.52,Delivered
+ORD2025402,Nike,Sports,banner print,"Surrey, British Columbia",28/04/2025,03-May-2025,199,$307.21,Delivered
+ORD2025403,FIFA,Sports,LED Signage,"Vancouver, British Columbia",26/04/2025,2025-05-01,63,$433.08,Delivered
+ORD2025404,FIFA,Events,,"Edmonton, Alberta",2025-06-30,2025-07-03,142,$366.03,Processing
+ORD2025405,Lululemon,Events,LED Signage,"Mississauga, Ontario",2025-03-03,2025-03-08,30,$160.91,Processing
+ORD2025406,Bell,Construction,LED Signage,"Edmonton, Alberta",24/03/2025,2025-03-26,157,$437.6,Processing
+ORD2025407,Adidas,Events,Banner Print,"Edmonton, Alberta",2025-03-22,23-Mar-2025,62,406.86,Shipped
+ORD2025408,Walmart,Events,,"Quebec City, Quebec",25/08/2025,26-Aug-2025,98,$250.19,Delivered
+ORD2025409,Nike,Retail,Acrylic Panel,"Montreal, Quebec",2025-01-18,22-Jan-2025,129,$68.04,Shipped
+ORD2025410,Nike,Hospitality,Banner Print,"Quebec City, Quebec",2025-09-22,27-Sep-2025,126,109.64,Shipped
+ORD2025411,Rogers,Hospitality,,"Toronto, Ontario",2025-05-09,10-May-2025,23,374.72,Shipped
+ORD2025412,Nike,Construction,LED Signage,"Calgary, Alberta",04/06/2025,2025-06-07,158,$365.72,Shipped
+ORD2025413,FIFA,Retail,LED signage,"Mississauga, Ontario",25/08/2025,2025-08-27,22,$401.32,Shipped
+ORD2025414,Walmart,Hospitality,Lightbox Frame," Winnipeg, Manitoba ",24/05/2025,27-May-2025,17,$215.52,Processing
+ORD2025415,Cineplex,Hospitality,Banner Print,"Mississauga, Ontario",17/04/2025,2025-04-19,52,361.24,Shipped
+ORD2025416,FIFA,Construction,LED signage,"Vancouver, British Columbia",2025-06-30,2025-07-02,105,306.58,Shipped
+ORD2025417,Rogers,Hospitality,,"Toronto, Ontario",18/12/2025,21-Dec-2025,26,$27.75,Delivered
+ORD2025418,Walmart,Events,banner print,"Mississauga, Ontario",21/06/2025,23-Jun-2025,182,241.62,Delivered
+ORD2025419,Adidas,Sports,,"Edmonton, Alberta",22/10/2025,23-Oct-2025,26,$27.81,Delivered
+ORD2025420,FIFA,Events,LED Signage,"Calgary, Alberta",2025-03-20,2025-03-22,35,233.3,Shipped
+ORD2025421,Adidas,Sports,LED signage,"Mississauga, Ontario",28/10/2025,03-Nov-2025,197,$162.46,Shipped
+ORD2025422,FIFA,Construction,LED Signage,"Montreal, Quebec",25/07/2025,2025-07-27,134,104.09,Processing
+ORD2025423,Walmart,Construction,Fabric Display,"Edmonton, Alberta",22/04/2025,28-Apr-2025,55,121.82,Delivered
+ORD2025424,Cineplex,Construction,Acrylic Panel,"Vancouver, British Columbia",11/01/2025,17-Jan-2025,112,267.0,Delivered
+ORD2025425,Adidas,Hospitality,,"Edmonton, Alberta",2025-02-20,2025-02-21,64,203.65,Delivered
+ORD2025426,Adidas,Sports,banner print,"Quebec City, Quebec",2025-06-15,19-Jun-2025,103,274.24,Shipped
+ORD2025427,Walmart,Sports,,"Quebec City, Quebec",23/10/2025,2025-10-25,20,18.63,Delivered
+ORD2025428,Cineplex,Retail,,"Surrey, British Columbia",20/08/2025,2025-08-26,200,$440.09,Processing
+ORD2025429,Adidas,Construction,Banner Print,"Halifax, Nova Scotia",2025-11-18,2025-11-19,64,$378.18,Processing
+ORD2025430,Lululemon,Events,Acrylic Panel,"Edmonton, Alberta",07/03/2025,2025-03-08,143,332.04,Processing
+ORD2025431,Rogers,Hospitality,Acrylic Panel,"Brampton, Ontario",2025-01-13,18-Jan-2025,151,472.43,Shipped
+ORD2025432,Bell,Sports,LED Signage,"Mississauga, Ontario",2025-05-28,2025-06-03,20,$133.53,Processing
+ORD2025433,Nike,Events,Banner Print,"Quebec City, Quebec",2025-06-21,26-Jun-2025,185,$379.63,Shipped
+ORD2025434,Bell,Sports,LED signage,"Mississauga, Ontario",28/01/2025,01-Feb-2025,19,$385.35,Processing
+ORD2025435,Cineplex,Retail,banner print,"Brampton, Ontario",26/07/2025,27-Jul-2025,138,469.98,Shipped
+ORD2025436,Rogers,Retail,,"Quebec City, Quebec",12/11/2025,17-Nov-2025,106,$362.82,Processing
+ORD2025437,Lululemon,Events,Banner Print,"Edmonton, Alberta",2025-11-02,05-Nov-2025,100,$182.98,Shipped
+ORD2025438,Nike,Events,LED Signage,"Mississauga, Ontario",12/07/2025,17-Jul-2025,108,$239.11,Shipped
+ORD2025439,Bell,Hospitality,Banner Print,"Brampton, Ontario",2025-08-23,27-Aug-2025,27,49.42,Delivered
+ORD2025440,Adidas,Hospitality,Acrylic Panel,"Brampton, Ontario",2025-02-20,26-Feb-2025,169,$178.53,Processing
+ORD2025441,Nike,Events,Banner Print,"Toronto, Ontario",26/05/2025,2025-05-28,73,$389.99,Processing
+ORD2025442,Adidas,Retail,Fabric Display,"Vancouver, British Columbia",2025-05-30,2025-06-03,83,240.49,Processing
+ORD2025443,Adidas,Sports,LED Signage,"Mississauga, Ontario",30/06/2025,06-Jul-2025,126,$105.21,Shipped
+ORD2025444,Nike,Sports,LED signage,"Vancouver, British Columbia",29/07/2025,03-Aug-2025,19,$301.58,Shipped
+ORD2025445,Bell,Retail,LED signage,"Surrey, British Columbia",2025-04-06,11-Apr-2025,29,220.57,Delivered
+ORD2025446,Cineplex,Hospitality,Fabric Display,"Calgary, Alberta",2025-02-06,2025-02-11,64,$230.14,Delivered
+ORD2025447,Nike,Hospitality,Acrylic Panel,"Surrey, British Columbia",2025-04-17,2025-04-20,120,207.09,Shipped
+ORD2025448,Nike,Sports,,"Calgary, Alberta",2025-07-07,12-Jul-2025,115,84.74,Delivered
+ORD2025449,Walmart,Retail,Acrylic Panel,"Quebec City, Quebec",09/05/2025,2025-05-10,26,179.79,Delivered
+ORD2025450,Bell,Events,banner print," Winnipeg, Manitoba ",2025-10-12,2025-10-18,157,$456.38,Delivered
+ORD2025451,Nike,Sports,,"Edmonton, Alberta",2025-07-31,01-Aug-2025,101,30.52,Shipped
+ORD2025452,Rogers,Hospitality,LED Signage,"Montreal, Quebec",2025-01-25,2025-01-29,63,325.68,Delivered
+ORD2025453,Nike,Hospitality,LED signage,"Toronto, Ontario",05/12/2025,2025-12-08,25,166.64,Delivered
+ORD2025454,Cineplex,Retail,Acrylic Panel,"Surrey, British Columbia",04/08/2025,10-Aug-2025,156,$374.57,Delivered
+ORD2025455,Adidas,Retail,LED signage,"Vancouver, British Columbia",2025-05-31,2025-06-04,157,$84.38,Shipped
+ORD2025456,Rogers,Hospitality,Fabric Display,"Brampton, Ontario",2025-08-07,09-Aug-2025,134,$262.19,Shipped
+ORD2025457,Adidas,Sports,Acrylic Panel," Winnipeg, Manitoba ",13/08/2025,19-Aug-2025,116,$49.27,Delivered
+ORD2025458,Adidas,Construction,Lightbox Frame,"Surrey, British Columbia",2025-10-04,06-Oct-2025,21,19.33,Delivered
+ORD2025459,Walmart,Hospitality,Banner Print,"Calgary, Alberta",2025-02-09,12-Feb-2025,163,221.06,Delivered
+ORD2025460,Rogers,Sports,Acrylic Panel,"Toronto, Ontario",05/12/2025,06-Dec-2025,177,410.09,Shipped
+ORD2025461,Walmart,Sports,,"Brampton, Ontario",09/08/2025,2025-08-12,48,$343.77,Processing
+ORD2025462,Nike,Construction,Lightbox Frame,"Vancouver, British Columbia",19/02/2025,2025-02-21,156,$193.68,Delivered
+ORD2025463,Nike,Hospitality,Lightbox Frame,"Vancouver, British Columbia",13/05/2025,15-May-2025,52,$13.58,Delivered
+ORD2025464,Lululemon,Retail,Banner Print," Winnipeg, Manitoba ",2025-11-29,30-Nov-2025,77,163.64,Shipped
+ORD2025465,Lululemon,Sports,Lightbox Frame,"Vancouver, British Columbia",2025-06-29,04-Jul-2025,51,284.6,Processing
+ORD2025466,Nike,Sports,LED signage,"Quebec City, Quebec",2025-10-14,15-Oct-2025,44,67.25,Shipped
+ORD2025467,Lululemon,Sports,Fabric Display,"Montreal, Quebec",25/05/2025,29-May-2025,4,$488.99,Delivered
+ORD2025468,Bell,Sports,banner print," Winnipeg, Manitoba ",2025-08-01,06-Aug-2025,114,$185.9,Delivered
+ORD2025469,Nike,Construction,Acrylic Panel,"Quebec City, Quebec",15/11/2025,20-Nov-2025,126,$301.45,Shipped
+ORD2025470,Adidas,Events,Acrylic Panel,"Vancouver, British Columbia",12/01/2025,17-Jan-2025,165,$229.09,Processing
+ORD2025471,Rogers,Retail,LED Signage,"Halifax, Nova Scotia",2025-02-19,20-Feb-2025,32,474.52,Processing
+ORD2025472,Nike,Hospitality,banner print,"Toronto, Ontario",01/11/2025,02-Nov-2025,170,$483.04,Delivered
+ORD2025473,Rogers,Sports,Acrylic Panel,"Edmonton, Alberta",2025-03-10,2025-03-15,185,201.96,Delivered
+ORD2025474,Nike,Events,Banner Print," Winnipeg, Manitoba ",2025-11-11,2025-11-16,70,$53.91,Shipped
+ORD2025475,Cineplex,Events,banner print,"Calgary, Alberta",15/07/2025,21-Jul-2025,187,415.24,Processing
+ORD2025476,Walmart,Construction,banner print,"Edmonton, Alberta",2025-03-20,26-Mar-2025,26,335.95,Shipped
+ORD2025477,Walmart,Events,LED signage,"Edmonton, Alberta",07/07/2025,09-Jul-2025,46,$453.51,Shipped
+ORD2025478,Rogers,Retail,LED Signage,"Calgary, Alberta",2025-02-21,2025-02-26,43,$318.43,Shipped
+ORD2025479,Cineplex,Retail,Acrylic Panel,"Edmonton, Alberta",21/07/2025,2025-07-24,60,$208.28,Shipped
+ORD2025480,Rogers,Retail,LED Signage,"Toronto, Ontario",13/11/2025,16-Nov-2025,180,$250.95,Shipped
+ORD2025481,Adidas,Retail,Banner Print,"Calgary, Alberta",09/04/2025,14-Apr-2025,120,124.35,Delivered
+ORD2025482,Nike,Events,Lightbox Frame,"Mississauga, Ontario",2025-07-27,2025-07-30,122,336.23,Shipped
+ORD2025483,Nike,Sports,LED Signage,"Calgary, Alberta",22/12/2025,2025-12-27,123,94.97,Shipped
+ORD2025484,Lululemon,Events,LED Signage,"Calgary, Alberta",13/08/2025,16-Aug-2025,78,167.38,Shipped
+ORD2025485,Walmart,Events,LED Signage,"Quebec City, Quebec",28/05/2025,29-May-2025,136,$493.69,Processing
+ORD2025486,Nike,Hospitality,Acrylic Panel,"Brampton, Ontario",29/05/2025,30-May-2025,179,461.32,Shipped
+ORD2025487,Cineplex,Retail,Banner Print," Winnipeg, Manitoba ",23/08/2025,2025-08-27,72,$331.65,Delivered
+ORD2025488,Bell,Events,Banner Print,"Edmonton, Alberta",2025-11-30,2025-12-06,177,$455.58,Shipped
+ORD2025489,Bell,Hospitality,,"Calgary, Alberta",11/12/2025,2025-12-15,72,$311.63,Processing
+ORD2025490,Lululemon,Construction,,"Halifax, Nova Scotia",12/05/2025,16-May-2025,145,216.0,Delivered
+ORD2025491,Adidas,Events,LED signage,"Vancouver, British Columbia",2025-12-12,2025-12-15,135,114.5,Delivered
+ORD2025492,Walmart,Hospitality,Lightbox Frame," Winnipeg, Manitoba ",2025-02-06,12-Feb-2025,133,47.66,Shipped
+ORD2025493,FIFA,Construction,Banner Print,"Quebec City, Quebec",05/05/2025,07-May-2025,9,94.82,Processing
+ORD2025494,Cineplex,Hospitality,," Winnipeg, Manitoba ",2025-06-28,03-Jul-2025,24,$233.61,Processing
+ORD2025495,FIFA,Sports,LED signage,"Edmonton, Alberta",2025-07-04,06-Jul-2025,59,$405.44,Processing
+ORD2025496,FIFA,Construction,Banner Print,"Quebec City, Quebec",10/06/2025,16-Jun-2025,200,381.19,Delivered
+ORD2025497,Rogers,Events,Banner Print,"Brampton, Ontario",09/01/2025,10-Jan-2025,6,329.87,Shipped
+ORD2025498,FIFA,Sports,LED Signage,"Brampton, Ontario",2025-09-11,16-Sep-2025,67,94.65,Processing
+ORD2025499,Rogers,Sports,Lightbox Frame,"Halifax, Nova Scotia",05/03/2025,11-Mar-2025,107,488.91,Shipped
+ORD2025500,Lululemon,Sports,,"Quebec City, Quebec",2025-10-20,2025-10-24,61,219.89,Delivered
+ORD2025501,Cineplex,Sports,banner print,"Toronto, Ontario",07/06/2025,09-Jun-2025,193,209.91,Processing
+ORD2025502,Nike,Events,,"Toronto, Ontario",16/01/2025,2025-01-20,28,$141.92,Delivered
+ORD2025503,Nike,Retail,Fabric Display,"Toronto, Ontario",04/04/2025,2025-04-07,153,475.55,Shipped
+ORD2025504,FIFA,Events,Banner Print,"Halifax, Nova Scotia",25/10/2025,2025-10-29,129,88.02,Processing
+ORD2025505,Bell,Construction,LED Signage,"Toronto, Ontario",27/04/2025,2025-04-28,105,462.19,Shipped
+ORD2025506,Cineplex,Events,,"Brampton, Ontario",2025-10-22,27-Oct-2025,99,$114.4,Delivered
+ORD2025507,Rogers,Events,LED Signage," Winnipeg, Manitoba ",2025-08-27,2025-09-02,121,$26.79,Shipped
+ORD2025508,Rogers,Events,Acrylic Panel,"Quebec City, Quebec",29/01/2025,2025-02-04,87,425.81,Delivered
+ORD2025509,Walmart,Events,,"Mississauga, Ontario",2025-01-19,24-Jan-2025,121,$28.73,Processing
+ORD2025510,Adidas,Sports,LED Signage,"Montreal, Quebec",03/12/2025,06-Dec-2025,115,454.2,Processing
+ORD2025511,Nike,Sports,Banner Print,"Surrey, British Columbia",2025-11-20,2025-11-25,3,$66.47,Processing
+ORD2025512,Nike,Construction,LED Signage,"Edmonton, Alberta",26/12/2025,01-Jan-2026,39,$332.85,Shipped
+ORD2025513,Lululemon,Hospitality,LED Signage,"Surrey, British Columbia",2025-07-04,2025-07-10,122,230.98,Processing
+ORD2025514,Cineplex,Sports,Acrylic Panel," Winnipeg, Manitoba ",2025-07-01,2025-07-05,14,$359.83,Processing
+ORD2025515,Walmart,Hospitality,banner print," Winnipeg, Manitoba ",2025-06-29,04-Jul-2025,34,$75.42,Delivered
+ORD2025516,Cineplex,Retail,Lightbox Frame,"Brampton, Ontario",2025-08-03,2025-08-04,76,$186.32,Delivered
+ORD2025517,FIFA,Hospitality,,"Edmonton, Alberta",2025-06-18,2025-06-20,101,$447.05,Processing
+ORD2025518,Lululemon,Retail,banner print,"Quebec City, Quebec",04/12/2025,2025-12-05,191,218.17,Delivered
+ORD2025519,Lululemon,Construction,Lightbox Frame,"Halifax, Nova Scotia",2025-04-26,2025-05-01,197,$240.94,Processing
+ORD2025520,Rogers,Retail,banner print,"Edmonton, Alberta",2025-05-23,2025-05-27,164,243.4,Processing
+ORD2025521,Bell,Sports,Lightbox Frame,"Brampton, Ontario",05/03/2025,11-Mar-2025,196,197.32,Delivered
+ORD2025522,Cineplex,Events,,"Mississauga, Ontario",2025-04-11,2025-04-13,124,342.25,Shipped
+ORD2025523,Lululemon,Events,Acrylic Panel,"Brampton, Ontario",03/05/2025,06-May-2025,35,$160.99,Shipped
+ORD2025524,Adidas,Sports,Lightbox Frame,"Toronto, Ontario",2025-09-02,07-Sep-2025,66,384.43,Delivered
+ORD2025525,Walmart,Sports,Fabric Display,"Calgary, Alberta",2025-06-08,10-Jun-2025,70,$323.59,Processing
+ORD2025526,Rogers,Hospitality,LED signage,"Quebec City, Quebec",14/03/2025,2025-03-18,197,$395.9,Processing
+ORD2025527,Rogers,Sports,LED signage,"Brampton, Ontario",05/08/2025,2025-08-10,144,485.97,Shipped
+ORD2025528,Nike,Hospitality,Banner Print,"Vancouver, British Columbia",27/11/2025,28-Nov-2025,106,$206.31,Processing
+ORD2025529,Rogers,Retail,Fabric Display,"Vancouver, British Columbia",16/07/2025,2025-07-20,11,218.01,Shipped
+ORD2025530,Rogers,Construction,LED Signage,"Vancouver, British Columbia",2025-04-11,2025-04-15,101,$302.36,Processing
+ORD2025531,Adidas,Construction,LED Signage,"Mississauga, Ontario",27/04/2025,2025-04-28,147,253.06,Delivered
+ORD2025532,FIFA,Hospitality,LED signage,"Surrey, British Columbia",21/11/2025,2025-11-27,105,$10.34,Shipped
+ORD2025533,Rogers,Construction,banner print,"Brampton, Ontario",29/12/2025,30-Dec-2025,135,14.57,Processing
+ORD2025534,Walmart,Sports,Acrylic Panel,"Edmonton, Alberta",31/08/2025,2025-09-02,41,$284.64,Delivered
+ORD2025535,Bell,Retail,Lightbox Frame," Winnipeg, Manitoba ",28/10/2025,2025-10-31,186,413.79,Shipped
+ORD2025536,Cineplex,Construction,banner print,"Surrey, British Columbia",21/05/2025,27-May-2025,76,$295.35,Processing
+ORD2025537,Nike,Construction,Fabric Display,"Calgary, Alberta",18/07/2025,2025-07-23,117,$329.92,Shipped
+ORD2025538,FIFA,Sports,Banner Print,"Surrey, British Columbia",2025-06-17,22-Jun-2025,137,459.17,Processing
+ORD2025539,Walmart,Construction,LED signage,"Calgary, Alberta",2025-08-20,2025-08-25,93,$189.67,Shipped
+ORD2025540,Nike,Construction,Fabric Display,"Quebec City, Quebec",2025-11-21,2025-11-23,165,$331.13,Processing
+ORD2025541,Lululemon,Sports,,"Surrey, British Columbia",27/02/2025,03-Mar-2025,142,375.11,Shipped
+ORD2025542,Walmart,Retail,LED Signage,"Calgary, Alberta",2025-06-19,21-Jun-2025,10,49.43,Processing
+ORD2025543,Lululemon,Sports,Banner Print,"Calgary, Alberta",24/09/2025,2025-09-28,81,$319.2,Delivered
+ORD2025544,Cineplex,Sports,,"Halifax, Nova Scotia",02/02/2025,05-Feb-2025,174,112.51,Shipped
+ORD2025545,Cineplex,Sports,,"Mississauga, Ontario",2025-06-13,2025-06-17,48,31.38,Shipped
+ORD2025546,Adidas,Events,Banner Print,"Edmonton, Alberta",26/10/2025,30-Oct-2025,177,$439.89,Processing
+ORD2025547,Walmart,Hospitality,Banner Print,"Calgary, Alberta",28/09/2025,30-Sep-2025,97,166.26,Processing
+ORD2025548,Lululemon,Hospitality,LED Signage,"Edmonton, Alberta",03/01/2025,07-Jan-2025,170,$380.25,Delivered
+ORD2025549,Cineplex,Construction,,"Toronto, Ontario",2025-03-16,18-Mar-2025,41,$421.11,Shipped
+ORD2025550,Bell,Events,Fabric Display,"Mississauga, Ontario",2025-05-23,2025-05-27,1,$304.04,Delivered
+ORD2025551,Rogers,Hospitality,Fabric Display,"Toronto, Ontario",2025-03-29,30-Mar-2025,187,342.14,Shipped
+ORD2025552,Walmart,Events,LED Signage,"Toronto, Ontario",14/11/2025,20-Nov-2025,10,$475.03,Processing
+ORD2025553,Bell,Construction,Acrylic Panel,"Mississauga, Ontario",27/02/2025,02-Mar-2025,175,$408.82,Shipped
+ORD2025554,Lululemon,Hospitality,LED signage,"Calgary, Alberta",2025-02-14,2025-02-19,36,359.65,Processing
+ORD2025555,Rogers,Retail,LED Signage,"Edmonton, Alberta",2025-06-19,2025-06-25,190,253.24,Shipped
+ORD2025556,Walmart,Retail,Acrylic Panel,"Mississauga, Ontario",28/12/2025,2025-12-29,1,$442.47,Shipped
+ORD2025557,Walmart,Construction,LED Signage,"Surrey, British Columbia",2025-09-12,15-Sep-2025,71,$34.02,Shipped
+ORD2025558,Lululemon,Events,Banner Print,"Surrey, British Columbia",29/01/2025,2025-02-04,187,$289.33,Delivered
+ORD2025559,Lululemon,Sports,banner print,"Toronto, Ontario",04/09/2025,2025-09-05,108,120.55,Shipped
+ORD2025560,Adidas,Construction,Lightbox Frame,"Brampton, Ontario",2025-12-18,19-Dec-2025,83,$252.97,Delivered
+ORD2025561,FIFA,Retail,LED Signage,"Quebec City, Quebec",2025-01-27,2025-01-29,179,96.46,Delivered
+ORD2025562,Cineplex,Retail,Banner Print,"Surrey, British Columbia",26/09/2025,30-Sep-2025,112,305.89,Shipped
+ORD2025563,Nike,Events,LED signage,"Brampton, Ontario",13/10/2025,2025-10-18,97,$89.33,Shipped
+ORD2025564,FIFA,Events,Lightbox Frame,"Mississauga, Ontario",2025-08-13,2025-08-16,80,$245.77,Shipped
+ORD2025565,Lululemon,Hospitality,banner print,"Toronto, Ontario",2025-02-09,2025-02-14,184,$328.71,Delivered
+ORD2025566,Cineplex,Events,banner print," Winnipeg, Manitoba ",29/07/2025,03-Aug-2025,165,462.6,Shipped
+ORD2025567,Lululemon,Events,Banner Print,"Toronto, Ontario",09/06/2025,2025-06-13,37,441.15,Processing
+ORD2025568,Bell,Sports,Acrylic Panel," Winnipeg, Manitoba ",01/02/2025,03-Feb-2025,152,15.65,Processing
+ORD2025569,Nike,Events,Acrylic Panel," Winnipeg, Manitoba ",27/01/2025,28-Jan-2025,192,499.24,Processing
+ORD2025570,Adidas,Hospitality,,"Edmonton, Alberta",28/04/2025,2025-05-01,57,152.68,Delivered
+ORD2025571,Walmart,Retail,,"Halifax, Nova Scotia",04/11/2025,06-Nov-2025,55,56.36,Delivered
+ORD2025572,FIFA,Construction,LED Signage,"Montreal, Quebec",2025-11-26,02-Dec-2025,102,$275.79,Delivered
+ORD2025573,Lululemon,Sports,banner print,"Quebec City, Quebec",2025-03-15,2025-03-19,166,$142.05,Delivered
+ORD2025574,Bell,Retail,Fabric Display,"Brampton, Ontario",2025-02-20,21-Feb-2025,169,304.73,Shipped
+ORD2025575,Rogers,Construction,Acrylic Panel,"Halifax, Nova Scotia",02/02/2025,08-Feb-2025,101,$315.67,Processing
+ORD2025576,Nike,Construction,,"Surrey, British Columbia",15/02/2025,2025-02-20,152,$410.53,Processing
+ORD2025577,Bell,Sports,Acrylic Panel,"Vancouver, British Columbia",15/02/2025,2025-02-21,185,$148.86,Processing
+ORD2025578,Lululemon,Events,LED Signage,"Surrey, British Columbia",15/02/2025,20-Feb-2025,126,$218.71,Processing
+ORD2025579,Nike,Construction,banner print," Winnipeg, Manitoba ",2025-04-15,19-Apr-2025,191,408.12,Delivered
+ORD2025580,Lululemon,Construction,Lightbox Frame,"Toronto, Ontario",2025-03-14,17-Mar-2025,159,$17.51,Processing
+ORD2025581,Lululemon,Construction,Fabric Display,"Halifax, Nova Scotia",19/10/2025,25-Oct-2025,79,$16.49,Delivered
+ORD2025582,Walmart,Construction,banner print,"Calgary, Alberta",2025-07-31,2025-08-01,180,441.84,Processing
+ORD2025583,Nike,Hospitality,banner print,"Toronto, Ontario",2025-07-30,2025-08-01,164,270.88,Delivered
+ORD2025584,Walmart,Construction,Banner Print,"Brampton, Ontario",2025-11-07,13-Nov-2025,143,78.64,Shipped
+ORD2025585,Nike,Retail,Lightbox Frame,"Surrey, British Columbia",10/05/2025,14-May-2025,137,59.69,Processing
+ORD2025586,Nike,Retail,LED signage,"Surrey, British Columbia",15/05/2025,21-May-2025,8,93.78,Shipped
+ORD2025587,Adidas,Sports,Fabric Display,"Toronto, Ontario",2025-10-25,31-Oct-2025,158,350.77,Shipped
+ORD2025588,Cineplex,Sports,Acrylic Panel,"Surrey, British Columbia",2025-10-23,2025-10-27,80,$250.11,Shipped
+ORD2025589,Nike,Sports,,"Toronto, Ontario",2025-02-13,18-Feb-2025,77,278.38,Shipped
+ORD2025590,Adidas,Retail,LED Signage,"Montreal, Quebec",02/06/2025,2025-06-07,110,$11.67,Processing
+ORD2025591,Bell,Sports,banner print,"Surrey, British Columbia",2025-08-01,07-Aug-2025,180,$315.27,Processing
+ORD2025592,Cineplex,Retail,Banner Print,"Surrey, British Columbia",2025-09-23,2025-09-27,56,90.07,Processing
+ORD2025593,Lululemon,Events,Lightbox Frame,"Brampton, Ontario",2025-08-08,10-Aug-2025,182,395.06,Shipped
+ORD2025594,Rogers,Retail,Acrylic Panel,"Montreal, Quebec",23/02/2025,27-Feb-2025,100,$411.69,Processing
+ORD2025595,Bell,Retail,LED Signage,"Calgary, Alberta",2025-01-16,2025-01-21,60,305.09,Processing
+ORD2025596,Nike,Hospitality,Fabric Display,"Mississauga, Ontario",2025-06-05,2025-06-07,140,$469.06,Shipped
+ORD2025597,Rogers,Sports,Acrylic Panel,"Brampton, Ontario",2025-04-21,27-Apr-2025,40,$386.11,Delivered
+ORD2025598,Lululemon,Construction,LED signage,"Calgary, Alberta",14/10/2025,19-Oct-2025,91,$479.31,Delivered
+ORD2025599,FIFA,Retail,Acrylic Panel," Winnipeg, Manitoba ",09/09/2025,15-Sep-2025,87,308.66,Delivered
+ORD2025600,Rogers,Hospitality,Fabric Display,"Halifax, Nova Scotia",25/07/2025,2025-07-28,45,273.94,Delivered
+ORD2025601,Rogers,Retail,,"Vancouver, British Columbia",2025-02-17,18-Feb-2025,110,$146.94,Shipped
+ORD2025602,Cineplex,Hospitality,Banner Print,"Vancouver, British Columbia",26/11/2025,02-Dec-2025,80,260.98,Delivered
+ORD2025603,Walmart,Retail,banner print,"Surrey, British Columbia",2025-04-09,2025-04-14,109,65.93,Shipped
+ORD2025604,Bell,Construction,banner print,"Montreal, Quebec",21/03/2025,26-Mar-2025,68,265.05,Shipped
+ORD2025605,Rogers,Events,,"Mississauga, Ontario",2025-01-03,04-Jan-2025,189,491.16,Processing
+ORD2025606,Cineplex,Events,LED signage,"Vancouver, British Columbia",2025-11-29,2025-12-02,110,67.57,Shipped
+ORD2025607,Cineplex,Construction,Lightbox Frame,"Brampton, Ontario",2025-09-01,04-Sep-2025,71,$215.23,Shipped
+ORD2025608,Bell,Retail,Lightbox Frame,"Montreal, Quebec",10/07/2025,2025-07-15,6,484.34,Processing
+ORD2025609,Lululemon,Sports,,"Toronto, Ontario",05/10/2025,2025-10-07,76,$279.12,Shipped
+ORD2025610,Adidas,Retail,banner print,"Surrey, British Columbia",07/10/2025,2025-10-13,68,$326.56,Delivered
+ORD2025611,Lululemon,Events,,"Quebec City, Quebec",2025-12-03,2025-12-08,17,$132.2,Processing
+ORD2025612,Walmart,Events,Lightbox Frame,"Edmonton, Alberta",2025-01-17,2025-01-22,129,228.66,Delivered
+ORD2025613,FIFA,Events,Fabric Display,"Mississauga, Ontario",09/07/2025,2025-07-14,142,$452.78,Processing
+ORD2025614,Adidas,Retail,LED Signage,"Brampton, Ontario",26/08/2025,2025-08-29,113,231.17,Processing
+ORD2025615,Nike,Sports,Banner Print,"Quebec City, Quebec",27/04/2025,2025-04-29,87,353.44,Delivered
+ORD2025616,Rogers,Sports,,"Toronto, Ontario",2025-07-15,2025-07-18,110,$187.28,Processing
+ORD2025617,Lululemon,Hospitality,Fabric Display,"Brampton, Ontario",2025-08-22,25-Aug-2025,5,302.95,Shipped
+ORD2025618,Cineplex,Hospitality,,"Brampton, Ontario",2025-06-22,2025-06-24,83,$145.77,Delivered
+ORD2025619,Cineplex,Events,banner print,"Calgary, Alberta",18/11/2025,2025-11-23,25,446.55,Delivered
+ORD2025620,Lululemon,Hospitality,Fabric Display," Winnipeg, Manitoba ",2025-05-16,2025-05-18,69,133.51,Delivered
+ORD2025621,Bell,Construction,LED Signage,"Calgary, Alberta",16/10/2025,2025-10-19,61,$294.15,Delivered
+ORD2025622,Walmart,Sports,,"Brampton, Ontario",06/02/2025,09-Feb-2025,136,366.25,Processing
+ORD2025623,Adidas,Sports,LED Signage,"Calgary, Alberta",25/01/2025,2025-01-27,111,$424.82,Processing
+ORD2025624,Walmart,Events,banner print,"Mississauga, Ontario",07/04/2025,2025-04-11,50,496.62,Shipped
+ORD2025625,Cineplex,Construction,Lightbox Frame,"Quebec City, Quebec",2025-03-14,2025-03-20,162,54.88,Shipped
+ORD2025626,Nike,Construction,Fabric Display,"Edmonton, Alberta",25/07/2025,2025-07-30,119,$153.73,Delivered
+ORD2025627,Walmart,Retail,,"Calgary, Alberta",2025-07-24,2025-07-29,162,$427.88,Shipped
+ORD2025628,Rogers,Retail,,"Calgary, Alberta",19/08/2025,23-Aug-2025,144,$350.39,Delivered
+ORD2025629,Bell,Sports,LED Signage,"Edmonton, Alberta",19/09/2025,2025-09-25,80,$167.64,Processing
+ORD2025630,Lululemon,Construction,Banner Print,"Vancouver, British Columbia",06/02/2025,2025-02-10,127,$428.98,Processing
+ORD2025631,Nike,Hospitality,,"Mississauga, Ontario",04/06/2025,07-Jun-2025,119,16.5,Processing
+ORD2025632,Rogers,Sports,Acrylic Panel,"Vancouver, British Columbia",16/06/2025,18-Jun-2025,192,$350.31,Delivered
+ORD2025633,Bell,Hospitality,LED Signage,"Edmonton, Alberta",30/12/2025,05-Jan-2026,99,$324.48,Processing
+ORD2025634,Adidas,Events,Lightbox Frame," Winnipeg, Manitoba ",15/07/2025,20-Jul-2025,9,207.61,Shipped
+ORD2025635,Lululemon,Hospitality,Acrylic Panel,"Halifax, Nova Scotia",21/04/2025,2025-04-27,67,$195.01,Shipped
+ORD2025636,Adidas,Events,Fabric Display,"Montreal, Quebec",2025-01-30,05-Feb-2025,136,489.11,Shipped
+ORD2025637,Lululemon,Retail,Acrylic Panel,"Brampton, Ontario",21/08/2025,23-Aug-2025,98,$357.02,Processing
+ORD2025638,Bell,Construction,,"Vancouver, British Columbia",2025-02-21,23-Feb-2025,163,$216.8,Shipped
+ORD2025639,Rogers,Events,LED signage,"Quebec City, Quebec",31/01/2025,04-Feb-2025,156,325.74,Shipped
+ORD2025640,Adidas,Hospitality,Fabric Display,"Surrey, British Columbia",2025-10-19,2025-10-23,134,127.13,Processing
+ORD2025641,FIFA,Sports,banner print,"Surrey, British Columbia",2025-06-28,02-Jul-2025,115,$378.84,Delivered
+ORD2025642,FIFA,Construction,LED signage,"Calgary, Alberta",12/11/2025,17-Nov-2025,77,$413.72,Delivered
+ORD2025643,Bell,Sports,Lightbox Frame,"Surrey, British Columbia",17/09/2025,21-Sep-2025,124,$198.11,Delivered
+ORD2025644,Lululemon,Construction,Acrylic Panel,"Halifax, Nova Scotia",04/05/2025,05-May-2025,186,$28.37,Shipped
+ORD2025645,Lululemon,Retail,Acrylic Panel,"Vancouver, British Columbia",10/02/2025,2025-02-12,100,$404.27,Shipped
+ORD2025646,Bell,Construction,banner print,"Surrey, British Columbia",2025-10-29,2025-10-31,134,$172.68,Processing
+ORD2025647,FIFA,Construction,," Winnipeg, Manitoba ",2025-08-02,07-Aug-2025,78,$276.07,Delivered
+ORD2025648,Adidas,Hospitality,Fabric Display,"Mississauga, Ontario",2025-11-28,2025-12-02,70,251.12,Processing
+ORD2025649,Cineplex,Retail,Fabric Display,"Surrey, British Columbia",26/06/2025,30-Jun-2025,32,467.45,Processing
+ORD2025650,Lululemon,Events,LED signage,"Calgary, Alberta",2025-02-03,09-Feb-2025,136,$24.76,Delivered
+ORD2025651,Walmart,Events,LED Signage,"Montreal, Quebec",2025-04-01,04-Apr-2025,112,69.53,Shipped
+ORD2025652,Cineplex,Construction,Lightbox Frame,"Toronto, Ontario",2025-09-13,2025-09-18,11,142.6,Shipped
+ORD2025653,Cineplex,Retail,,"Mississauga, Ontario",2025-10-08,2025-10-10,59,$410.03,Shipped
+ORD2025654,Walmart,Hospitality,Banner Print,"Surrey, British Columbia",2025-06-17,2025-06-22,174,$184.93,Processing
+ORD2025655,Nike,Hospitality,LED Signage,"Surrey, British Columbia",2025-03-07,2025-03-08,100,378.38,Processing
+ORD2025656,Walmart,Construction,LED signage,"Halifax, Nova Scotia",2025-11-12,18-Nov-2025,131,$364.65,Processing
+ORD2025657,Adidas,Events,,"Montreal, Quebec",30/01/2025,31-Jan-2025,28,$315.3,Processing
+ORD2025658,Rogers,Construction,Banner Print,"Quebec City, Quebec",30/11/2025,03-Dec-2025,97,145.83,Delivered
+ORD2025659,Bell,Events,,"Calgary, Alberta",2025-04-22,23-Apr-2025,175,418.41,Shipped
+ORD2025660,Adidas,Retail,LED Signage,"Vancouver, British Columbia",2025-07-24,28-Jul-2025,58,$463.62,Processing
+ORD2025661,FIFA,Hospitality,Banner Print,"Brampton, Ontario",19/12/2025,20-Dec-2025,78,$253.71,Delivered
+ORD2025662,Walmart,Sports,LED signage,"Halifax, Nova Scotia",10/01/2025,11-Jan-2025,5,$469.22,Processing
+ORD2025663,Adidas,Sports,Fabric Display,"Montreal, Quebec",21/09/2025,2025-09-25,157,$322.86,Processing
+ORD2025664,Cineplex,Sports,Lightbox Frame," Winnipeg, Manitoba ",2025-03-03,2025-03-04,119,$159.01,Processing
+ORD2025665,FIFA,Sports,Banner Print,"Montreal, Quebec",2025-02-14,2025-02-18,180,429.19,Shipped
+ORD2025666,Adidas,Sports,banner print,"Montreal, Quebec",2025-10-24,2025-10-28,5,$16.08,Delivered
+ORD2025667,Bell,Retail,Fabric Display,"Brampton, Ontario",05/04/2025,09-Apr-2025,198,155.11,Delivered
+ORD2025668,Lululemon,Events,LED signage,"Surrey, British Columbia",2025-11-01,04-Nov-2025,193,283.66,Delivered
+ORD2025669,Lululemon,Sports,Acrylic Panel,"Vancouver, British Columbia",2025-12-11,2025-12-15,171,474.92,Delivered
+ORD2025670,Rogers,Hospitality,banner print,"Toronto, Ontario",17/05/2025,21-May-2025,4,25.13,Shipped
+ORD2025671,Walmart,Events,Lightbox Frame,"Edmonton, Alberta",05/04/2025,2025-04-09,77,$317.01,Shipped
+ORD2025672,Nike,Retail,Banner Print,"Halifax, Nova Scotia",2025-11-26,2025-12-02,112,98.07,Delivered
+ORD2025673,Lululemon,Hospitality,Acrylic Panel," Winnipeg, Manitoba ",2025-10-08,2025-10-11,60,$360.46,Shipped
+ORD2025674,Cineplex,Hospitality,,"Brampton, Ontario",2025-07-08,2025-07-09,171,$419.19,Shipped
+ORD2025675,Cineplex,Retail,LED signage,"Toronto, Ontario",2025-06-07,08-Jun-2025,183,453.83,Delivered
+ORD2025676,Nike,Sports,," Winnipeg, Manitoba ",18/04/2025,2025-04-19,123,$56.06,Processing
+ORD2025677,Bell,Retail,banner print,"Toronto, Ontario",21/06/2025,25-Jun-2025,74,$412.11,Shipped
+ORD2025678,Lululemon,Retail,LED signage,"Toronto, Ontario",20/08/2025,2025-08-22,58,93.23,Shipped
+ORD2025679,Bell,Construction,LED Signage,"Edmonton, Alberta",2025-11-16,2025-11-18,142,$88.68,Processing
+ORD2025680,Cineplex,Retail,Lightbox Frame,"Brampton, Ontario",13/12/2025,18-Dec-2025,51,436.27,Processing
+ORD2025681,Nike,Retail,banner print,"Surrey, British Columbia",2025-11-24,2025-11-26,88,$440.48,Delivered
+ORD2025682,Rogers,Events,,"Montreal, Quebec",14/03/2025,15-Mar-2025,10,$466.76,Shipped
+ORD2025683,Nike,Events,Acrylic Panel,"Toronto, Ontario",27/07/2025,31-Jul-2025,38,318.16,Processing
+ORD2025684,Walmart,Events,Acrylic Panel,"Vancouver, British Columbia",10/03/2025,15-Mar-2025,105,63.18,Shipped
+ORD2025685,Lululemon,Events,Fabric Display,"Toronto, Ontario",17/12/2025,2025-12-18,40,305.11,Processing
+ORD2025686,Walmart,Hospitality,Banner Print,"Halifax, Nova Scotia",2025-12-07,09-Dec-2025,13,207.17,Shipped
+ORD2025687,Cineplex,Hospitality,Lightbox Frame,"Vancouver, British Columbia",06/01/2025,2025-01-12,95,445.1,Shipped
+ORD2025688,Adidas,Retail,Lightbox Frame,"Edmonton, Alberta",15/07/2025,2025-07-18,117,$332.98,Processing
+ORD2025689,Walmart,Retail,Banner Print,"Halifax, Nova Scotia",10/01/2025,2025-01-11,126,$444.13,Delivered
+ORD2025690,Nike,Sports,banner print,"Mississauga, Ontario",2025-11-02,2025-11-04,70,312.44,Shipped
+ORD2025691,Nike,Sports,LED Signage,"Halifax, Nova Scotia",08/06/2025,09-Jun-2025,114,345.6,Shipped
+ORD2025692,Rogers,Construction,LED signage,"Edmonton, Alberta",2025-11-06,2025-11-08,185,89.1,Shipped
+ORD2025693,FIFA,Events,LED Signage,"Toronto, Ontario",2025-10-21,23-Oct-2025,180,285.91,Processing
+ORD2025694,Cineplex,Sports,Banner Print,"Quebec City, Quebec",2025-11-13,18-Nov-2025,83,$23.22,Shipped
+ORD2025695,Rogers,Events,banner print,"Vancouver, British Columbia",2025-12-28,03-Jan-2026,126,431.02,Delivered
+ORD2025696,Rogers,Hospitality,Acrylic Panel,"Montreal, Quebec",2025-04-18,24-Apr-2025,114,129.31,Delivered
+ORD2025697,Adidas,Events,Acrylic Panel,"Mississauga, Ontario",07/12/2025,2025-12-11,44,232.6,Delivered
+ORD2025698,Cineplex,Sports,,"Toronto, Ontario",11/02/2025,14-Feb-2025,160,266.37,Delivered
+ORD2025699,FIFA,Sports,,"Montreal, Quebec",2025-12-16,18-Dec-2025,110,206.25,Processing
+ORD2025700,Lululemon,Sports,banner print," Winnipeg, Manitoba ",04/08/2025,05-Aug-2025,130,205.78,Shipped
+ORD2025701,Lululemon,Retail,Banner Print,"Calgary, Alberta",09/01/2025,2025-01-13,182,48.78,Delivered
+ORD2025702,Nike,Construction,,"Mississauga, Ontario",2025-09-18,2025-09-23,25,$450.71,Delivered
+ORD2025703,Adidas,Construction,LED signage,"Brampton, Ontario",09/01/2025,10-Jan-2025,64,178.84,Processing
+ORD2025704,FIFA,Hospitality,Lightbox Frame,"Mississauga, Ontario",2025-12-23,29-Dec-2025,79,$362.0,Shipped
+ORD2025705,Bell,Events,LED Signage,"Vancouver, British Columbia",20/09/2025,23-Sep-2025,69,$176.27,Shipped
+ORD2025706,Walmart,Construction,LED signage,"Quebec City, Quebec",10/05/2025,12-May-2025,182,333.78,Processing
+ORD2025707,Adidas,Hospitality,Fabric Display," Winnipeg, Manitoba ",30/08/2025,2025-09-03,18,159.51,Delivered
+ORD2025708,Nike,Retail,LED signage,"Toronto, Ontario",2025-10-19,24-Oct-2025,72,$55.92,Delivered
+ORD2025709,Bell,Construction,Fabric Display,"Montreal, Quebec",15/09/2025,2025-09-20,47,$473.4,Processing
+ORD2025710,Nike,Retail,banner print,"Quebec City, Quebec",29/11/2025,2025-12-05,88,$130.89,Processing
+ORD2025711,Cineplex,Construction,LED signage,"Edmonton, Alberta",2025-02-01,06-Feb-2025,107,$254.44,Delivered
+ORD2025712,Bell,Sports,Fabric Display,"Edmonton, Alberta",14/11/2025,2025-11-19,69,289.37,Processing
+ORD2025713,Cineplex,Construction,Banner Print,"Halifax, Nova Scotia",2025-11-06,2025-11-10,10,$126.92,Shipped
+ORD2025714,Rogers,Sports,Acrylic Panel,"Montreal, Quebec",2025-06-13,2025-06-19,14,317.62,Processing
+ORD2025715,Rogers,Retail,Fabric Display,"Brampton, Ontario",15/11/2025,2025-11-19,193,489.36,Processing
+ORD2025716,Cineplex,Retail,Fabric Display,"Surrey, British Columbia",2025-01-27,01-Feb-2025,185,268.35,Processing
+ORD2025717,Bell,Hospitality,Banner Print,"Vancouver, British Columbia",2025-08-22,23-Aug-2025,91,463.78,Shipped
+ORD2025718,Adidas,Retail,LED signage,"Quebec City, Quebec",2025-02-15,2025-02-17,106,$386.47,Delivered
+ORD2025719,Walmart,Construction,banner print,"Brampton, Ontario",2025-08-02,2025-08-04,9,179.75,Delivered
+ORD2025720,Bell,Sports,banner print,"Toronto, Ontario",09/07/2025,2025-07-10,139,$408.88,Shipped
+ORD2025721,Adidas,Construction,Acrylic Panel,"Brampton, Ontario",10/04/2025,2025-04-12,13,$133.01,Processing
+ORD2025722,Lululemon,Construction,LED signage,"Vancouver, British Columbia",2025-02-24,2025-03-02,71,$267.66,Shipped
+ORD2025723,Walmart,Hospitality,Banner Print,"Surrey, British Columbia",03/01/2025,06-Jan-2025,49,165.75,Processing
+ORD2025724,Bell,Construction,Lightbox Frame,"Halifax, Nova Scotia",2025-11-06,2025-11-10,58,$97.51,Processing
+ORD2025725,Nike,Events,," Winnipeg, Manitoba ",18/04/2025,23-Apr-2025,117,$343.15,Shipped
+ORD2025726,Adidas,Construction,Acrylic Panel,"Surrey, British Columbia",2025-08-20,22-Aug-2025,174,$455.39,Shipped
+ORD2025727,Walmart,Construction,,"Montreal, Quebec",04/01/2025,2025-01-08,44,239.36,Processing
+ORD2025728,Bell,Events,LED signage,"Surrey, British Columbia",06/03/2025,10-Mar-2025,21,$151.26,Shipped
+ORD2025729,FIFA,Construction,LED Signage,"Vancouver, British Columbia",2025-01-23,25-Jan-2025,142,$294.64,Processing
+ORD2025730,Bell,Sports,,"Halifax, Nova Scotia",01/01/2025,2025-01-06,2,$156.65,Processing
+ORD2025731,FIFA,Hospitality,Lightbox Frame,"Toronto, Ontario",25/08/2025,27-Aug-2025,66,405.08,Processing
+ORD2025732,Nike,Events,Banner Print,"Toronto, Ontario",2025-10-01,06-Oct-2025,17,$388.88,Delivered
+ORD2025733,FIFA,Retail,Lightbox Frame,"Surrey, British Columbia",2025-05-12,14-May-2025,127,$69.29,Processing
+ORD2025734,Nike,Retail,Lightbox Frame,"Surrey, British Columbia",2025-07-24,30-Jul-2025,88,$353.64,Shipped
+ORD2025735,Adidas,Retail,LED signage,"Edmonton, Alberta",08/03/2025,11-Mar-2025,176,427.05,Shipped
+ORD2025736,Lululemon,Sports,LED signage,"Surrey, British Columbia",2025-12-03,2025-12-08,172,$444.96,Shipped
+ORD2025737,Lululemon,Construction,LED signage,"Toronto, Ontario",31/10/2025,01-Nov-2025,56,$296.65,Processing
+ORD2025738,Adidas,Hospitality,Lightbox Frame,"Montreal, Quebec",31/05/2025,04-Jun-2025,4,$370.29,Processing
+ORD2025739,Rogers,Hospitality,LED signage," Winnipeg, Manitoba ",12/05/2025,2025-05-18,47,444.23,Delivered
+ORD2025740,Bell,Sports,,"Halifax, Nova Scotia",01/01/2025,02-Jan-2025,184,$253.77,Delivered
+ORD2025741,Rogers,Sports,banner print," Winnipeg, Manitoba ",08/04/2025,13-Apr-2025,128,$486.92,Processing
+ORD2025742,Rogers,Hospitality,Banner Print,"Quebec City, Quebec",12/08/2025,17-Aug-2025,124,$419.48,Shipped
+ORD2025743,Bell,Events,LED signage,"Toronto, Ontario",2025-01-12,18-Jan-2025,127,$414.54,Shipped
+ORD2025744,Lululemon,Construction,Banner Print,"Toronto, Ontario",09/07/2025,2025-07-14,132,$102.09,Shipped
+ORD2025745,Cineplex,Events,LED signage,"Quebec City, Quebec",2025-06-15,18-Jun-2025,123,$456.42,Processing
+ORD2025746,Nike,Construction,LED signage,"Halifax, Nova Scotia",10/03/2025,2025-03-16,4,$430.64,Shipped
+ORD2025747,Nike,Retail,LED Signage,"Montreal, Quebec",2025-03-04,05-Mar-2025,136,$115.44,Shipped
+ORD2025748,Nike,Sports,Banner Print,"Surrey, British Columbia",30/06/2025,04-Jul-2025,6,115.23,Delivered
+ORD2025749,Lululemon,Construction,Fabric Display,"Edmonton, Alberta",2025-03-01,2025-03-07,182,$418.02,Shipped
+ORD2025750,Nike,Retail,LED signage,"Brampton, Ontario",25/02/2025,2025-03-02,3,$487.03,Shipped
+ORD2025751,Rogers,Hospitality,Acrylic Panel,"Mississauga, Ontario",24/09/2025,28-Sep-2025,85,372.83,Processing
+ORD2025752,Bell,Events,LED Signage,"Vancouver, British Columbia",2025-11-11,14-Nov-2025,114,137.54,Processing
+ORD2025753,Walmart,Construction,Fabric Display,"Surrey, British Columbia",2025-08-28,03-Sep-2025,152,213.3,Delivered
+ORD2025754,FIFA,Retail,,"Brampton, Ontario",2025-03-11,16-Mar-2025,12,76.12,Delivered
+ORD2025755,Rogers,Hospitality,banner print,"Toronto, Ontario",21/02/2025,2025-02-23,134,$223.42,Processing
+ORD2025756,Cineplex,Retail,LED Signage,"Mississauga, Ontario",20/12/2025,22-Dec-2025,77,$398.74,Delivered
+ORD2025757,Bell,Hospitality,Acrylic Panel,"Calgary, Alberta",08/02/2025,10-Feb-2025,6,$231.45,Processing
+ORD2025758,Walmart,Events,LED Signage,"Brampton, Ontario",24/10/2025,30-Oct-2025,22,$390.68,Shipped
+ORD2025759,Lululemon,Retail,Fabric Display,"Brampton, Ontario",10/02/2025,2025-02-15,8,128.88,Shipped
+ORD2025760,Adidas,Sports,LED signage,"Halifax, Nova Scotia",2025-09-16,2025-09-18,43,$82.96,Delivered
+ORD2025761,Nike,Events,Lightbox Frame,"Surrey, British Columbia",2025-07-04,2025-07-08,17,$134.52,Processing
+ORD2025762,Nike,Retail,banner print,"Toronto, Ontario",2025-05-02,2025-05-07,168,175.27,Processing
+ORD2025763,Walmart,Retail,LED Signage," Winnipeg, Manitoba ",08/03/2025,11-Mar-2025,72,92.97,Delivered
+ORD2025764,Nike,Sports,Fabric Display,"Brampton, Ontario",2025-10-30,03-Nov-2025,156,$182.82,Shipped
+ORD2025765,Cineplex,Sports,Fabric Display,"Edmonton, Alberta",04/09/2025,08-Sep-2025,171,478.98,Shipped
+ORD2025766,Bell,Sports,LED Signage,"Toronto, Ontario",21/06/2025,2025-06-22,196,$171.67,Processing
+ORD2025767,Cineplex,Events,LED Signage,"Surrey, British Columbia",26/01/2025,31-Jan-2025,82,120.78,Delivered
+ORD2025768,Nike,Construction,banner print,"Surrey, British Columbia",2025-03-13,14-Mar-2025,177,44.77,Shipped
+ORD2025769,FIFA,Retail,Banner Print,"Toronto, Ontario",29/10/2025,2025-11-03,54,122.05,Shipped
+ORD2025770,Lululemon,Retail,LED Signage,"Calgary, Alberta",24/10/2025,2025-10-29,72,$176.87,Shipped
+ORD2025771,Nike,Sports,,"Calgary, Alberta",2025-06-20,26-Jun-2025,41,455.14,Delivered
+ORD2025772,Adidas,Events,banner print,"Edmonton, Alberta",20/12/2025,2025-12-25,94,$402.97,Delivered
+ORD2025773,Nike,Events,LED Signage,"Mississauga, Ontario",26/03/2025,2025-03-31,61,$50.3,Shipped
+ORD2025774,Rogers,Retail,Fabric Display,"Toronto, Ontario",2025-08-03,2025-08-08,82,10.45,Processing
+ORD2025775,Nike,Retail,Banner Print,"Montreal, Quebec",02/06/2025,07-Jun-2025,170,152.89,Processing
+ORD2025776,Adidas,Construction,Acrylic Panel,"Mississauga, Ontario",22/03/2025,24-Mar-2025,60,216.57,Shipped
+ORD2025777,Bell,Construction,Acrylic Panel,"Brampton, Ontario",11/06/2025,13-Jun-2025,170,$283.81,Processing
+ORD2025778,Nike,Sports,banner print,"Edmonton, Alberta",2025-03-31,2025-04-02,128,339.71,Shipped
+ORD2025779,Rogers,Events,banner print,"Brampton, Ontario",2025-05-28,29-May-2025,100,$328.72,Shipped
+ORD2025780,Bell,Events,banner print,"Surrey, British Columbia",2025-11-16,22-Nov-2025,52,174.51,Shipped
+ORD2025781,Rogers,Sports,banner print,"Montreal, Quebec",2025-12-09,2025-12-14,52,44.1,Processing
+ORD2025782,Nike,Retail,Banner Print,"Brampton, Ontario",30/06/2025,06-Jul-2025,196,378.22,Delivered
+ORD2025783,Rogers,Retail,Banner Print,"Vancouver, British Columbia",2025-05-27,2025-05-30,121,268.84,Delivered
+ORD2025784,Lululemon,Retail,LED Signage,"Halifax, Nova Scotia",18/05/2025,22-May-2025,64,$452.68,Shipped
+ORD2025785,Nike,Hospitality,Lightbox Frame,"Toronto, Ontario",28/06/2025,02-Jul-2025,116,$325.25,Shipped
+ORD2025786,FIFA,Retail,banner print,"Toronto, Ontario",05/09/2025,2025-09-10,179,$445.84,Processing
+ORD2025787,FIFA,Hospitality,banner print,"Toronto, Ontario",02/09/2025,08-Sep-2025,2,442.36,Delivered
+ORD2025788,Bell,Retail,Lightbox Frame,"Brampton, Ontario",2025-09-05,2025-09-06,14,$111.92,Processing
+ORD2025789,Adidas,Sports,Banner Print,"Calgary, Alberta",05/03/2025,2025-03-10,132,53.09,Delivered
+ORD2025790,FIFA,Construction,Acrylic Panel,"Edmonton, Alberta",26/04/2025,2025-04-30,150,$480.61,Delivered
+ORD2025791,Walmart,Events,banner print,"Brampton, Ontario",23/08/2025,2025-08-27,56,92.7,Processing
+ORD2025792,Bell,Sports,LED signage," Winnipeg, Manitoba ",2025-05-18,24-May-2025,178,$418.06,Shipped
+ORD2025793,Adidas,Hospitality,Acrylic Panel,"Vancouver, British Columbia",27/11/2025,02-Dec-2025,110,476.53,Delivered
+ORD2025794,Adidas,Hospitality,,"Vancouver, British Columbia",2025-08-25,2025-08-30,104,499.03,Delivered
+ORD2025795,Walmart,Sports,Fabric Display,"Mississauga, Ontario",2025-12-24,2025-12-27,63,305.22,Processing
+ORD2025796,Walmart,Construction,banner print,"Mississauga, Ontario",28/03/2025,2025-04-02,128,140.94,Shipped
+ORD2025797,Nike,Construction,LED Signage,"Brampton, Ontario",17/07/2025,19-Jul-2025,191,$334.22,Shipped
+ORD2025798,Adidas,Events,banner print,"Halifax, Nova Scotia",28/04/2025,2025-04-29,54,83.59,Shipped
+ORD2025799,Adidas,Events,LED Signage," Winnipeg, Manitoba ",12/07/2025,2025-07-15,120,$89.93,Shipped
+ORD2025800,Lululemon,Sports,Fabric Display,"Toronto, Ontario",03/06/2025,2025-06-06,153,186.25,Shipped
+ORD2025801,Cineplex,Hospitality,,"Montreal, Quebec",12/05/2025,15-May-2025,67,338.84,Shipped
+ORD2025802,Bell,Construction,LED signage,"Quebec City, Quebec",17/07/2025,20-Jul-2025,10,289.38,Processing
+ORD2025803,Rogers,Sports,,"Quebec City, Quebec",2025-08-10,14-Aug-2025,39,$205.74,Delivered
+ORD2025804,Nike,Events,,"Montreal, Quebec",2025-04-23,2025-04-27,132,$105.7,Shipped
+ORD2025805,Bell,Events,banner print,"Vancouver, British Columbia",28/09/2025,2025-10-01,76,304.66,Processing
+ORD2025806,Nike,Construction,Acrylic Panel,"Mississauga, Ontario",2025-03-18,21-Mar-2025,11,93.02,Shipped
+ORD2025807,Bell,Events,Acrylic Panel,"Surrey, British Columbia",08/11/2025,09-Nov-2025,40,291.81,Delivered
+ORD2025808,FIFA,Retail,LED Signage,"Montreal, Quebec",2025-06-18,20-Jun-2025,166,145.83,Shipped
+ORD2025809,Nike,Construction,LED Signage,"Quebec City, Quebec",19/04/2025,2025-04-25,113,$430.94,Processing
+ORD2025810,FIFA,Construction,LED Signage,"Vancouver, British Columbia",2025-11-21,24-Nov-2025,39,$55.27,Processing
+ORD2025811,Walmart,Retail,Fabric Display,"Calgary, Alberta",16/02/2025,2025-02-21,15,438.03,Shipped
+ORD2025812,Nike,Sports,banner print,"Vancouver, British Columbia",2025-09-25,2025-09-29,146,189.58,Shipped
+ORD2025813,FIFA,Construction,LED Signage," Winnipeg, Manitoba ",14/07/2025,16-Jul-2025,49,$415.83,Delivered
+ORD2025814,Cineplex,Hospitality,LED Signage,"Vancouver, British Columbia",2025-02-16,2025-02-22,51,$490.38,Processing
+ORD2025815,Bell,Events,banner print," Winnipeg, Manitoba ",2025-01-24,28-Jan-2025,92,$29.78,Delivered
+ORD2025816,Rogers,Retail,Banner Print,"Montreal, Quebec",2025-04-16,2025-04-19,165,108.45,Delivered
+ORD2025817,Rogers,Construction,Fabric Display,"Montreal, Quebec",2025-11-09,14-Nov-2025,188,$372.83,Shipped
+ORD2025818,Cineplex,Retail,LED signage," Winnipeg, Manitoba ",30/01/2025,02-Feb-2025,27,446.1,Shipped
+ORD2025819,Bell,Hospitality,,"Vancouver, British Columbia",25/04/2025,2025-04-26,157,$122.46,Processing
+ORD2025820,Adidas,Construction,,"Edmonton, Alberta",2025-07-31,01-Aug-2025,88,$239.11,Processing
+ORD2025821,Bell,Construction,,"Calgary, Alberta",01/11/2025,07-Nov-2025,146,224.94,Delivered
+ORD2025822,Adidas,Events,Acrylic Panel,"Calgary, Alberta",2025-05-23,28-May-2025,123,429.91,Shipped
+ORD2025823,Cineplex,Construction,LED Signage,"Surrey, British Columbia",2025-01-16,2025-01-19,179,168.82,Processing
+ORD2025824,Nike,Events,LED signage,"Halifax, Nova Scotia",02/09/2025,2025-09-08,70,481.18,Shipped
+ORD2025825,Rogers,Construction,Lightbox Frame,"Vancouver, British Columbia",2025-09-28,29-Sep-2025,186,356.4,Processing
+ORD2025826,Adidas,Events,banner print,"Surrey, British Columbia",02/12/2025,03-Dec-2025,147,$53.36,Delivered
+ORD2025827,FIFA,Hospitality,Acrylic Panel,"Surrey, British Columbia",13/11/2025,2025-11-14,195,$224.48,Processing
+ORD2025828,Cineplex,Hospitality,,"Calgary, Alberta",2025-07-24,2025-07-26,80,$374.04,Shipped
+ORD2025829,Rogers,Sports,banner print,"Vancouver, British Columbia",23/08/2025,2025-08-28,156,$86.09,Shipped
+ORD2025830,Bell,Construction,LED signage,"Surrey, British Columbia",22/01/2025,2025-01-25,134,$246.22,Delivered
+ORD2025831,Lululemon,Hospitality,LED Signage,"Mississauga, Ontario",04/12/2025,2025-12-06,29,$151.09,Processing
+ORD2025832,Walmart,Hospitality,Lightbox Frame,"Mississauga, Ontario",10/10/2025,12-Oct-2025,67,450.48,Processing
+ORD2025833,Cineplex,Sports,banner print,"Mississauga, Ontario",2025-04-22,2025-04-23,118,$248.5,Processing
+ORD2025834,Walmart,Construction,Banner Print,"Mississauga, Ontario",2025-11-05,06-Nov-2025,125,262.93,Processing
+ORD2025835,Adidas,Construction,banner print,"Quebec City, Quebec",11/12/2025,14-Dec-2025,130,$373.02,Delivered
+ORD2025836,Lululemon,Construction,Acrylic Panel,"Vancouver, British Columbia",2025-05-30,04-Jun-2025,185,$305.61,Delivered
+ORD2025837,FIFA,Hospitality,LED Signage,"Vancouver, British Columbia",2025-12-17,2025-12-18,145,$128.86,Shipped
+ORD2025838,FIFA,Events,Acrylic Panel,"Toronto, Ontario",15/12/2025,16-Dec-2025,179,163.21,Shipped
+ORD2025839,Nike,Retail,Lightbox Frame,"Surrey, British Columbia",11/10/2025,13-Oct-2025,9,175.21,Delivered
+ORD2025840,Bell,Hospitality,Lightbox Frame,"Brampton, Ontario",2025-02-26,02-Mar-2025,27,21.55,Processing
+ORD2025841,Nike,Events,banner print,"Edmonton, Alberta",2025-06-12,2025-06-17,61,$183.87,Shipped
+ORD2025842,Rogers,Hospitality,Lightbox Frame,"Edmonton, Alberta",10/02/2025,2025-02-11,148,$151.49,Delivered
+ORD2025843,Rogers,Sports,Lightbox Frame,"Quebec City, Quebec",2025-10-26,2025-10-29,162,174.32,Delivered
+ORD2025844,Cineplex,Events,Banner Print,"Montreal, Quebec",2025-03-16,2025-03-21,155,$144.88,Shipped
+ORD2025845,Lululemon,Construction,Lightbox Frame,"Surrey, British Columbia",08/11/2025,10-Nov-2025,102,$138.65,Delivered
+ORD2025846,Cineplex,Sports,,"Mississauga, Ontario",2025-01-03,06-Jan-2025,9,48.77,Delivered
+ORD2025847,Rogers,Hospitality,banner print,"Calgary, Alberta",2025-11-10,2025-11-13,189,$163.45,Processing
+ORD2025848,Bell,Construction,LED Signage,"Calgary, Alberta",09/05/2025,12-May-2025,154,492.52,Shipped
+ORD2025849,Adidas,Events,Acrylic Panel,"Edmonton, Alberta",24/12/2025,28-Dec-2025,172,$134.7,Processing
+ORD2025850,Adidas,Construction,LED signage,"Vancouver, British Columbia",14/06/2025,20-Jun-2025,124,385.25,Shipped
+ORD2025851,Bell,Construction,Lightbox Frame,"Quebec City, Quebec",2025-04-16,2025-04-20,41,279.49,Shipped
+ORD2025852,Cineplex,Events,Fabric Display,"Toronto, Ontario",2025-11-20,24-Nov-2025,187,364.57,Delivered
+ORD2025853,Bell,Retail,LED Signage,"Toronto, Ontario",2025-12-04,05-Dec-2025,103,185.87,Delivered
+ORD2025854,FIFA,Sports,banner print,"Quebec City, Quebec",2025-04-14,2025-04-19,180,492.88,Processing
+ORD2025855,Lululemon,Hospitality,banner print," Winnipeg, Manitoba ",27/12/2025,2026-01-02,170,494.07,Processing
+ORD2025856,Walmart,Hospitality,LED Signage," Winnipeg, Manitoba ",01/10/2025,04-Oct-2025,179,471.75,Processing
+ORD2025857,Cineplex,Hospitality,Banner Print,"Vancouver, British Columbia",29/03/2025,01-Apr-2025,127,$387.24,Delivered
+ORD2025858,Rogers,Hospitality,Fabric Display,"Edmonton, Alberta",06/04/2025,2025-04-08,29,$366.96,Shipped
+ORD2025859,Rogers,Sports,Lightbox Frame,"Halifax, Nova Scotia",2025-06-08,2025-06-13,34,$433.73,Shipped
+ORD2025860,Bell,Sports,Lightbox Frame,"Vancouver, British Columbia",22/02/2025,2025-02-28,49,331.11,Delivered
+ORD2025861,Lululemon,Sports,Lightbox Frame,"Montreal, Quebec",04/11/2025,10-Nov-2025,35,85.25,Processing
+ORD2025862,Adidas,Hospitality,Fabric Display,"Calgary, Alberta",2025-02-21,2025-02-26,25,474.69,Delivered
+ORD2025863,Lululemon,Sports,Lightbox Frame,"Toronto, Ontario",11/12/2025,2025-12-14,78,193.89,Shipped
+ORD2025864,FIFA,Hospitality,LED signage,"Surrey, British Columbia",2025-03-05,2025-03-06,29,301.52,Shipped
+ORD2025865,Cineplex,Construction,Banner Print,"Edmonton, Alberta",2025-02-01,2025-02-02,149,434.97,Delivered
+ORD2025866,Bell,Sports,LED Signage,"Mississauga, Ontario",07/11/2025,2025-11-12,5,173.8,Shipped
+ORD2025867,Rogers,Sports,Banner Print,"Brampton, Ontario",2025-09-02,03-Sep-2025,139,177.29,Processing
+ORD2025868,Walmart,Retail,Banner Print,"Mississauga, Ontario",13/11/2025,18-Nov-2025,192,84.52,Delivered
+ORD2025869,Rogers,Construction,Acrylic Panel,"Mississauga, Ontario",05/09/2025,2025-09-08,79,$285.01,Shipped
+ORD2025870,FIFA,Hospitality,,"Calgary, Alberta",2025-03-10,11-Mar-2025,10,$179.86,Delivered
+ORD2025871,Rogers,Sports,Lightbox Frame,"Halifax, Nova Scotia",05/02/2025,2025-02-09,114,$273.23,Processing
+ORD2025872,Lululemon,Hospitality,Lightbox Frame,"Calgary, Alberta",2025-02-28,2025-03-06,142,136.96,Delivered
+ORD2025873,FIFA,Retail,banner print,"Calgary, Alberta",08/09/2025,11-Sep-2025,13,$168.82,Processing
+ORD2025874,Walmart,Construction,Acrylic Panel,"Toronto, Ontario",2025-08-01,05-Aug-2025,171,$130.62,Shipped
+ORD2025875,Nike,Construction,,"Mississauga, Ontario",14/06/2025,18-Jun-2025,66,$226.07,Processing
+ORD2025876,Rogers,Construction,LED signage,"Montreal, Quebec",12/09/2025,13-Sep-2025,28,474.57,Delivered
+ORD2025877,Nike,Sports,banner print,"Vancouver, British Columbia",31/10/2025,02-Nov-2025,118,$230.81,Processing
+ORD2025878,Cineplex,Retail,Fabric Display,"Brampton, Ontario",01/11/2025,2025-11-03,175,$218.03,Processing
+ORD2025879,Rogers,Retail,LED Signage,"Brampton, Ontario",04/02/2025,2025-02-10,23,$108.68,Delivered
+ORD2025880,FIFA,Sports,Banner Print,"Halifax, Nova Scotia",05/10/2025,10-Oct-2025,5,$307.1,Processing
+ORD2025881,FIFA,Retail,Fabric Display,"Vancouver, British Columbia",2025-04-27,2025-05-01,89,$411.57,Processing
+ORD2025882,FIFA,Construction,Lightbox Frame,"Mississauga, Ontario",2025-04-04,06-Apr-2025,107,197.52,Delivered
+ORD2025883,Lululemon,Construction,LED Signage,"Halifax, Nova Scotia",2025-06-16,2025-06-20,102,44.47,Delivered
+ORD2025884,Rogers,Sports,LED signage,"Toronto, Ontario",2025-05-15,17-May-2025,92,333.1,Processing
+ORD2025885,Bell,Sports,Fabric Display,"Toronto, Ontario",14/07/2025,20-Jul-2025,176,$281.38,Delivered
+ORD2025886,FIFA,Construction,,"Mississauga, Ontario",2025-08-16,20-Aug-2025,195,$30.66,Delivered
+ORD2025887,Lululemon,Hospitality,LED Signage,"Vancouver, British Columbia",2025-06-26,2025-06-28,118,152.64,Processing
+ORD2025888,Bell,Hospitality,Lightbox Frame,"Quebec City, Quebec",2025-02-09,15-Feb-2025,162,$172.43,Shipped
+ORD2025889,FIFA,Construction,Fabric Display,"Edmonton, Alberta",18/02/2025,2025-02-20,96,$311.36,Shipped
+ORD2025890,Walmart,Retail,Banner Print," Winnipeg, Manitoba ",04/08/2025,2025-08-09,117,429.62,Shipped
+ORD2025891,Nike,Events,LED signage,"Edmonton, Alberta",23/10/2025,2025-10-25,19,197.41,Delivered
+ORD2025892,Rogers,Retail,LED Signage,"Brampton, Ontario",12/08/2025,2025-08-15,2,378.77,Delivered
+ORD2025893,Cineplex,Construction,LED signage,"Halifax, Nova Scotia",11/08/2025,15-Aug-2025,87,54.21,Processing
+ORD2025894,FIFA,Construction,Banner Print,"Edmonton, Alberta",20/02/2025,23-Feb-2025,144,140.52,Shipped
+ORD2025895,Cineplex,Sports,Lightbox Frame,"Calgary, Alberta",2025-06-05,07-Jun-2025,45,$316.93,Delivered
+ORD2025896,Bell,Sports,banner print,"Vancouver, British Columbia",2025-03-17,2025-03-21,3,162.85,Delivered
+ORD2025897,FIFA,Sports,LED signage,"Mississauga, Ontario",2025-02-08,11-Feb-2025,148,315.16,Processing
+ORD2025898,Rogers,Sports,Banner Print,"Edmonton, Alberta",27/12/2025,2026-01-02,116,164.33,Delivered
+ORD2025899,Walmart,Hospitality,LED Signage," Winnipeg, Manitoba ",22/07/2025,24-Jul-2025,187,115.26,Delivered
+ORD2025900,Cineplex,Construction,LED signage,"Surrey, British Columbia",05/12/2025,2025-12-08,14,$426.33,Shipped
+ORD2025901,Bell,Events,Lightbox Frame,"Halifax, Nova Scotia",29/06/2025,2025-07-03,196,$153.94,Processing
+ORD2025902,Lululemon,Hospitality,Fabric Display,"Edmonton, Alberta",28/01/2025,2025-02-03,71,409.82,Delivered
+ORD2025903,FIFA,Events,Acrylic Panel,"Quebec City, Quebec",2025-12-20,25-Dec-2025,63,$166.47,Delivered
+ORD2025904,Nike,Retail,LED Signage,"Calgary, Alberta",2025-02-04,2025-02-07,76,282.96,Delivered
+ORD2025905,Adidas,Hospitality,Lightbox Frame,"Toronto, Ontario",2025-11-04,09-Nov-2025,12,$77.2,Shipped
+ORD2025906,Walmart,Retail,Banner Print,"Brampton, Ontario",2025-09-22,2025-09-27,118,139.25,Processing
+ORD2025907,Adidas,Retail,Fabric Display,"Calgary, Alberta",2025-05-12,2025-05-18,194,357.14,Delivered
+ORD2025908,Walmart,Sports,Lightbox Frame,"Surrey, British Columbia",10/11/2025,2025-11-16,17,$102.41,Delivered
+ORD2025909,Cineplex,Sports,Banner Print,"Vancouver, British Columbia",02/01/2025,2025-01-07,158,118.83,Delivered
+ORD2025910,Adidas,Hospitality,Banner Print,"Vancouver, British Columbia",2025-03-29,04-Apr-2025,124,94.9,Delivered
+ORD2025911,Nike,Events,Fabric Display,"Surrey, British Columbia",21/01/2025,22-Jan-2025,145,$401.19,Shipped
+ORD2025912,FIFA,Sports,banner print,"Halifax, Nova Scotia",03/03/2025,06-Mar-2025,197,39.28,Shipped
+ORD2025913,FIFA,Events,LED Signage,"Mississauga, Ontario",2025-10-18,24-Oct-2025,153,$488.21,Processing
+ORD2025914,Adidas,Events,Lightbox Frame,"Surrey, British Columbia",2025-06-15,2025-06-16,17,436.22,Delivered
+ORD2025915,Cineplex,Sports,,"Toronto, Ontario",2025-05-31,2025-06-06,10,$242.44,Delivered
+ORD2025916,Bell,Sports,banner print,"Edmonton, Alberta",2025-06-27,02-Jul-2025,193,434.5,Shipped
+ORD2025917,Adidas,Construction,banner print,"Mississauga, Ontario",2025-02-21,24-Feb-2025,101,329.39,Shipped
+ORD2025918,Lululemon,Construction,LED Signage,"Quebec City, Quebec",07/07/2025,09-Jul-2025,153,$106.69,Processing
+ORD2025919,FIFA,Events,Banner Print,"Toronto, Ontario",02/02/2025,03-Feb-2025,28,$334.49,Shipped
+ORD2025920,Nike,Construction,Lightbox Frame," Winnipeg, Manitoba ",09/01/2025,15-Jan-2025,137,$421.4,Delivered
+ORD2025921,FIFA,Hospitality,,"Halifax, Nova Scotia",2025-04-12,17-Apr-2025,91,$193.84,Delivered
+ORD2025922,Nike,Hospitality,Acrylic Panel,"Brampton, Ontario",2025-10-29,2025-11-01,173,207.21,Shipped
+ORD2025923,Rogers,Events,LED Signage,"Halifax, Nova Scotia",08/06/2025,2025-06-11,22,259.56,Delivered
+ORD2025924,Rogers,Sports,Banner Print,"Edmonton, Alberta",20/10/2025,2025-10-23,96,$274.83,Delivered
+ORD2025925,Nike,Retail,,"Montreal, Quebec",30/03/2025,2025-04-01,189,199.2,Delivered
+ORD2025926,Lululemon,Events,Banner Print,"Halifax, Nova Scotia",2025-11-28,2025-12-02,13,$415.32,Shipped
+ORD2025927,Nike,Hospitality,LED Signage,"Quebec City, Quebec",25/07/2025,2025-07-26,136,77.36,Processing
+ORD2025928,Adidas,Construction,LED signage,"Montreal, Quebec",03/12/2025,08-Dec-2025,135,188.29,Delivered
+ORD2025929,Cineplex,Sports,Lightbox Frame,"Halifax, Nova Scotia",2025-06-25,28-Jun-2025,31,$415.08,Processing
+ORD2025930,Cineplex,Construction,Banner Print,"Quebec City, Quebec",2025-01-09,2025-01-12,3,$239.18,Shipped
+ORD2025931,Lululemon,Hospitality,Banner Print,"Halifax, Nova Scotia",2025-05-14,2025-05-20,39,$126.81,Processing
+ORD2025932,Lululemon,Sports,Lightbox Frame,"Surrey, British Columbia",10/11/2025,2025-11-12,146,222.12,Delivered
+ORD2025933,Cineplex,Events,LED Signage,"Mississauga, Ontario",2025-10-25,26-Oct-2025,19,$84.78,Shipped
+ORD2025934,Nike,Events,,"Halifax, Nova Scotia",2025-02-25,2025-02-28,153,$460.72,Delivered
+ORD2025935,Rogers,Events,Banner Print,"Quebec City, Quebec",18/03/2025,24-Mar-2025,178,228.35,Delivered
+ORD2025936,Rogers,Retail,,"Vancouver, British Columbia",13/09/2025,19-Sep-2025,122,$496.53,Delivered
+ORD2025937,Cineplex,Hospitality,banner print," Winnipeg, Manitoba ",2025-07-03,2025-07-08,60,240.92,Processing
+ORD2025938,Bell,Construction,LED Signage,"Edmonton, Alberta",08/06/2025,14-Jun-2025,109,200.33,Shipped
+ORD2025939,Adidas,Sports,,"Quebec City, Quebec",2025-11-30,01-Dec-2025,22,349.48,Delivered
+ORD2025940,Rogers,Construction,Acrylic Panel,"Brampton, Ontario",30/07/2025,2025-08-01,88,$430.35,Processing
+ORD2025941,Cineplex,Sports,Fabric Display,"Brampton, Ontario",07/10/2025,10-Oct-2025,148,$60.45,Processing
+ORD2025942,Adidas,Events,Lightbox Frame,"Toronto, Ontario",2025-01-24,26-Jan-2025,186,$68.03,Processing
+ORD2025943,Lululemon,Retail,Acrylic Panel,"Quebec City, Quebec",2025-10-26,27-Oct-2025,77,334.85,Processing
+ORD2025944,FIFA,Events,LED Signage,"Calgary, Alberta",07/12/2025,2025-12-11,77,65.27,Shipped
+ORD2025945,Rogers,Construction,Acrylic Panel,"Surrey, British Columbia",2025-04-04,07-Apr-2025,144,108.67,Shipped
+ORD2025946,Adidas,Hospitality,Acrylic Panel,"Edmonton, Alberta",2025-03-19,2025-03-22,13,308.27,Processing
+ORD2025947,Walmart,Retail,LED signage,"Brampton, Ontario",06/04/2025,07-Apr-2025,61,$312.95,Delivered
+ORD2025948,Lululemon,Construction,,"Montreal, Quebec",2025-10-21,26-Oct-2025,141,113.98,Shipped
+ORD2025949,Nike,Events,LED Signage,"Montreal, Quebec",10/05/2025,2025-05-16,31,468.17,Processing
+ORD2025950,Bell,Sports,LED signage,"Toronto, Ontario",2025-11-20,23-Nov-2025,193,$404.81,Processing
+ORD2025951,Rogers,Construction,,"Vancouver, British Columbia",02/02/2025,2025-02-08,30,$59.67,Processing
+ORD2025952,Adidas,Events,Acrylic Panel,"Surrey, British Columbia",2025-11-06,10-Nov-2025,129,$201.87,Delivered
+ORD2025953,FIFA,Hospitality,banner print,"Surrey, British Columbia",2025-01-02,08-Jan-2025,195,404.75,Delivered
+ORD2025954,Rogers,Hospitality,Banner Print," Winnipeg, Manitoba ",2025-09-06,07-Sep-2025,5,$491.24,Delivered
+ORD2025955,Nike,Sports,LED Signage,"Edmonton, Alberta",25/02/2025,28-Feb-2025,167,$124.0,Delivered
+ORD2025956,Rogers,Construction,LED Signage,"Quebec City, Quebec",17/05/2025,2025-05-20,66,287.38,Shipped
+ORD2025957,Adidas,Hospitality,Lightbox Frame," Winnipeg, Manitoba ",2025-07-17,2025-07-18,159,451.6,Shipped
+ORD2025958,FIFA,Hospitality,Lightbox Frame,"Quebec City, Quebec",28/11/2025,30-Nov-2025,9,$437.87,Shipped
+ORD2025959,Bell,Events,LED Signage,"Edmonton, Alberta",2025-01-25,2025-01-27,63,$101.66,Processing
+ORD2025960,Cineplex,Retail,Acrylic Panel,"Quebec City, Quebec",2025-02-12,15-Feb-2025,183,$72.27,Shipped
+ORD2025961,Walmart,Events,banner print,"Brampton, Ontario",2025-12-27,2026-01-01,36,345.21,Processing
+ORD2025962,Lululemon,Retail,LED Signage,"Brampton, Ontario",2025-08-22,2025-08-28,13,$433.59,Shipped
+ORD2025963,Walmart,Events,banner print,"Mississauga, Ontario",25/06/2025,30-Jun-2025,38,433.36,Processing
+ORD2025964,Lululemon,Hospitality,LED signage,"Brampton, Ontario",2025-03-24,30-Mar-2025,182,$460.64,Delivered
+ORD2025965,Cineplex,Construction,Lightbox Frame,"Brampton, Ontario",2025-07-19,25-Jul-2025,122,45.41,Processing
+ORD2025966,FIFA,Sports,,"Mississauga, Ontario",18/11/2025,23-Nov-2025,170,$153.22,Delivered
+ORD2025967,Lululemon,Construction,Banner Print,"Vancouver, British Columbia",2025-02-05,2025-02-09,45,15.36,Shipped
+ORD2025968,Nike,Events,LED Signage,"Brampton, Ontario",19/12/2025,25-Dec-2025,156,316.52,Processing
+ORD2025969,Rogers,Sports,Banner Print,"Surrey, British Columbia",2025-08-07,10-Aug-2025,65,$440.5,Processing
+ORD2025970,Adidas,Hospitality,LED signage,"Vancouver, British Columbia",2025-04-26,2025-04-27,60,217.83,Processing
+ORD2025971,FIFA,Sports,LED signage,"Halifax, Nova Scotia",2025-04-22,2025-04-24,160,$290.79,Processing
+ORD2025972,Walmart,Retail,banner print,"Vancouver, British Columbia",2025-03-14,2025-03-16,71,41.05,Delivered
+ORD2025973,Cineplex,Sports,Lightbox Frame," Winnipeg, Manitoba ",2025-01-10,2025-01-15,145,$181.17,Delivered
+ORD2025974,Nike,Construction,LED signage,"Toronto, Ontario",2025-08-30,2025-09-02,66,$100.92,Delivered
+ORD2025975,Cineplex,Construction,banner print,"Brampton, Ontario",04/02/2025,2025-02-06,92,$276.28,Delivered
+ORD2025976,Rogers,Retail,LED Signage,"Quebec City, Quebec",21/12/2025,25-Dec-2025,68,134.72,Delivered
+ORD2025977,Adidas,Events,Acrylic Panel,"Edmonton, Alberta",2025-01-20,2025-01-23,115,$438.14,Processing
+ORD2025978,Lululemon,Retail,LED Signage,"Vancouver, British Columbia",01/10/2025,04-Oct-2025,69,460.42,Delivered
+ORD2025979,Adidas,Construction,LED signage,"Montreal, Quebec",25/11/2025,2025-11-29,128,$30.24,Shipped
+ORD2025980,Bell,Hospitality,,"Calgary, Alberta",05/06/2025,2025-06-10,1,$466.03,Processing
+ORD2025981,Cineplex,Construction,banner print," Winnipeg, Manitoba ",2025-06-06,11-Jun-2025,46,$451.82,Shipped
+ORD2025982,Walmart,Events,banner print," Winnipeg, Manitoba ",22/01/2025,26-Jan-2025,87,324.14,Processing
+ORD2025983,Rogers,Hospitality,LED Signage," Winnipeg, Manitoba ",2025-11-09,2025-11-13,61,155.23,Processing
+ORD2025984,Bell,Events,banner print,"Calgary, Alberta",13/04/2025,19-Apr-2025,7,$81.99,Processing
+ORD2025985,Adidas,Sports,LED Signage,"Vancouver, British Columbia",29/10/2025,01-Nov-2025,161,434.08,Delivered
+ORD2025986,Walmart,Construction,LED signage,"Toronto, Ontario",2025-02-23,28-Feb-2025,80,153.25,Processing
+ORD2025987,Adidas,Hospitality,Lightbox Frame,"Vancouver, British Columbia",01/03/2025,05-Mar-2025,23,$498.27,Delivered
+ORD2025988,Walmart,Construction,banner print,"Edmonton, Alberta",2025-06-20,26-Jun-2025,20,$418.2,Delivered
+ORD2025989,Bell,Hospitality,LED signage,"Mississauga, Ontario",08/10/2025,14-Oct-2025,140,259.61,Shipped
+ORD2025990,Lululemon,Sports,Acrylic Panel,"Calgary, Alberta",18/06/2025,24-Jun-2025,16,$146.85,Processing
+ORD2025991,Lululemon,Hospitality,banner print,"Calgary, Alberta",2025-09-20,2025-09-22,61,$365.1,Processing
+ORD2025992,Nike,Events,Banner Print,"Surrey, British Columbia",29/04/2025,03-May-2025,114,166.37,Shipped
+ORD2025993,Rogers,Hospitality,LED signage,"Montreal, Quebec",24/04/2025,29-Apr-2025,189,$488.14,Shipped
+ORD2025994,Nike,Sports,Fabric Display,"Toronto, Ontario",2025-01-20,23-Jan-2025,24,208.8,Shipped
+ORD2025995,Rogers,Construction,LED Signage,"Quebec City, Quebec",05/10/2025,2025-10-07,131,$259.15,Processing
+ORD2025996,FIFA,Retail,LED signage,"Vancouver, British Columbia",2025-04-15,2025-04-19,183,$220.29,Processing
+ORD2025997,FIFA,Events,Acrylic Panel," Winnipeg, Manitoba ",2025-04-16,21-Apr-2025,109,420.61,Shipped
+ORD2025998,Cineplex,Construction,banner print,"Vancouver, British Columbia",22/03/2025,28-Mar-2025,130,$109.12,Delivered
+ORD2025999,Bell,Sports,LED Signage,"Calgary, Alberta",26/01/2025,31-Jan-2025,196,428.42,Shipped
+ORD20251000,Cineplex,Retail,,"Vancouver, British Columbia",22/09/2025,2025-09-25,8,$65.98,Processing
